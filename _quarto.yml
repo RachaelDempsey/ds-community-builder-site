@@ -13,19 +13,19 @@ website:
     left: "&copy; CC-By Openscapes, 2022"
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/ds-community-logo.jpg"
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
+      - icon: slack
+        href: https://join.slack.com/t/ds-communitybuilders/shared_invite/zt-1igdvgnhi-B_U1ra3HIy7axIJyv5wS1A
+        text: "Data Science Community Builder Slack"
       - icon: github
         href: https://github.com/openscapes/quarto-website-tutorial
-        text: "Quarto website tutorial"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
+        text: "Website GitHub"
+      - icon: link
+        href: https://evt.to/aihmgeaow
+        text: "Community Builder Coffee Hour"         
 
     style: "docked"
     search: true
