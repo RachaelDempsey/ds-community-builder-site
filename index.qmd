@@ -26,3 +26,4 @@ Before diving in, kudos to you for taking the first steps (or the 100th step) in
 
 ## Contributors to this site:
 
+Thank you to Julia Stewart Lowndes and Stefanie Butland who created the [Openscapes Quarto Website Tutorial](https://github.com/openscapes/quarto-website-tutorial) that provided the framework for this site.
