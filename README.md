@@ -1,2 +1,2 @@
-# quarto-site-template
-Example quarto site without R or Python!
+# Quarto-site-community-building
+Quarto site for data science community builders
