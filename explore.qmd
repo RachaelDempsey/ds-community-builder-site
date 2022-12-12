@@ -1,147 +1,84 @@
 ---
-title: Explore and setup
+title: Getting started
 ---
 
-With this tutorial, we have a working example website that we will explore together. We'll learn a few rules and look for patterns to get an understanding of what things to do to help you start customizing and making it your own. And you can continue to use this website as a reference after the tutorial, along with [Quarto](https://quarto.org) documentation.
+## Considerations for getting started:  
+- What is the goal for your community?
+- How often will the community get together?
+- Who will be part of the community?
+- How do we get people engaged?
+- How do we market it?
+- What should we talk about?
+- Who will help lead it?
 
-We'll start our exploration online looking at the website architecture and GitHub repository. Then we'll setup a copy for ourselves so that we can modify from a working example, which is a great way to learn something new. We'll set it up so that any modifications (commits) will automatically be republished via GitHub Actions. Subsequent chapters will describe how to modify your repo using different tools (browser, RStudio, Jupyter).
+### Identify your goals for your community to determine your strategy:
 
-## Exploring online
+What first led you to want to create a community? There were probably many points along the way where you thought, “this might be a great idea.”
 
-### The website itself
+A few reasons from other organizers:  
 
-[This website](https://openscapes.github.io/quarto-website-tutorial/) has 5 things you can see on the left sidebar:
+- Create internal connections: many data scientists may work along in different business units, so it’s helpful to learn about others across the work.  
+- Increase collaboration: Draw on the creativity and power of a broad community across the company and work together to solve common problems.  
+- Grow the use of data science: Increase data literacy across the company by providing space for people to learn how to get started  
 
--   Welcome
--   Exploring and setup
--   Quarto workflows
--   Learning more
--   Transition from Rmd
+If you’re not 100% sure on your goals and strategy, don’t worry. Sometimes just getting started can be the best way. 
 
-Most of these are pages, but you'll see that "Quarto Workflows" has an arrow; it is a folder with additional pages inside.
 
-### The website's repo
+::: callout-tip
+Think of this as an experiment. It’s okay to try new things and see what works best. Everything isn’t set in stone. Experiment to see what works well for people across your company - every team may be different.
+:::
 
-Let's go to this website's GitHub repository (also called a "repo"), [**https://github.com/openscapes/quarto-website-tutorial**](https://github.com/openscapes/quarto-website-tutorial){.uri}. You can also click there from any page in this tutorial website by clicking the GitHub octocat icon underneath the Openscapes logo in the left navbar (click it holding command on Mac, or control on a PC to open it in a different tab in your browser).
+### Community isn’t one single thing.
 
-**Have a look at the filenames.** We can recognize the names of the webpages we've seen above, and they have red arrows marking them in the image below. You'll see the "quarto-workflows" folder and the rest in this site are `.qmd` files, which are plain text Quarto files that can combine Markdown text with code. `index.qmd` is the home page. If you click inside "quarto-workflows" you'll see a mix of filetypes!
+Community is a lot of little – and big things together. There are a lot of organizations taking a multi-pronged approach to community building. It’s not just having a Slack channel or Teams channel, it’s also different events, the way that you engage people across the company, etc.
 
-![quarto-website-tutorial GitHub repository with files for webpages marked with red arrows](images/quarto-files-github.png){fig-alt="Screenshot of files on GitHub with red arrows identifying the files that we saw in the left sidebar" fig-align="center" width="80%"}
+In a recent R/Pharma workshop, there was a Community Building Workshop, which highlighted 3 companies upfront (AstraZeneca, Pfizer, and Johnson & Johnson) and the different initiatives that they lead.
 
-**The `_site` folder** has html files with names that should be familiar: they match the `.md` files we were just exploring. This folder is where Quarto stores files to build the website.
+Community in these organizations includes many things like:  
 
-## `_quarto.yml` intro
+- Monthly initiatives promoting a package or function as a blog post
+- TidyTuesday with a company dataset
+- Showcasing a community leader each month from the organization and asking them 10 questions
+- Monthly community meetings with 2 presentations each month
+- Monthly newsletter curated for the community
+- Annual conference (for ex: Shiny Day) with live workshop & half day of groups presenting their apps/use-cases
+- Central repository with all material: learning pathways, internal videos, etc.
 
-There is also a `_quarto.yml` file, which is the website's configuration file. It is essentially metadata for the website that includes the order that the pages/chapters will be in. This is where you update the organization of your website: which page comes before another. If we compare side-by-side, you'll see that the pages that appear on our website are listed there.
+### Be consistent.
 
-![`_quarto.yml` and website side-by-side](images/quarto-yml-site-side-by-side2.png){alt="_quarto.yml and website side-by-side" fig-align="center"}
+Building communities takes time. People need to know what to expect and when.
 
-We'll learn more about how to interact with `_quarto.yml` in [Quarto Workflows](quarto-workflows/index.qmd).
+Rachael Dempsey shared in her [2022 RStudio Conference talk](https://www.rstudio.com/conference/2022/talks/everything-learned-community-building-learned/), that much of what she learned about community building actually came from growing up in a restaurant. 
 
-## Fork to your account
+At many restaurants there are certain days that are often associated with certain foods or certain events. One easy one to remember is Taco Tuesday. People don’t come to every single Tuesday, but when they have a free night or when they’re looking for something to do with friends, they know exactly where they can go. It remains top of mind on a Tuesday. 
 
-Let's start with an existing Quarto site and copy it into your space to edit. You'll need a free GitHub account that you create at [github.com](https://github.com) (follow [this advice](https://happygitwithr.com/github-acct.html) about choosing your username).
+We've seen consistency work for many community initiatives:  
 
-First, choose an existing website to copy. The simplest option is to start with this site: [quarto-website-tutorial](https://github.com/Openscapes/quarto-website-tutorial).
+- Every Thursday at 12 ET, Posit hosts a Data Science Hangout. Every week a different data science leader from the community joins as a co-host to answer questions from the community. There's no presentation at these sessions and all the questions are audience led. A few examples: How do I talk to executives? How are you thinking about hiring right now? Should I have a centralized or decentralized data science team?
+- At John Deere, they host bi-weekly office hours for a variety of different tools (PowerBI, Tableau, Posit Team, etc.) for beginners to bring their questions and connect with each other and power users.
+- AstraZeneca hosts a Lunch & LeaRn that takes place at lunchtime, alternating between European and US timezones.
 
-Other options of potential interest:
+It’s important to point out that just because you hold events consistently doesn’t mean everyone will show up right away. It takes some time for things to catch on - and also requires incorporating the other tips below.
 
--   [2021-Cloud-Hackathon](https://github.com/NASA-Openscapes/2021-Cloud-Hackathon)
--   [2022-SWOT-Ocean-Cloud-Workshop](https://github.com/podaac/2022-SWOT-Ocean-Cloud-Workshop)
--   [Openscapes Approach-Guide](https://openscapes.github.io/approach-guide)
+#### Standardize where possible
 
-Next, follow [these steps to fork and setup your repo with GitHub Actions](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it) from Gavin Fay, using the repo you chose. These instructions will take \~5 minutes.
+In being consistent, you are able to standardize as much as possible. Whether it’s office hours or a monthly meetup, you can create an event invitation, logo, and format that you use every time. This can help take care of a lot of the planning and also scheduling. When you have specific dates and times each week or month, you can schedule people into those slots as it fits their schedule rather than having to change each event to fit a specific speaker’s calendar. Once you get going and planning a few months out, this will become easier.
 
-Now you've got a copy of your repo of choice in your own GitHub account, and you're set to start making your own edits. Your GitHub repo is set up with a GitHub Action that will use Quarto to rebuild and republish your site anytime you make a commit: committing will trigger the GitHub Action to rebuild and republish the book.
+### Find your core group
 
-Note that the GitHub Action for this book does not include R or Python so those will need to be added if your website relies on code. See <https://github.com/r-lib/actions> for more details and examples.
+Be intentional when starting your core group. Try to include a diverse group of people across the company from the very beginning.
 
-### Download instead of fork
+When finding people who may be interested, think about who you may already know from your company. Have you seen other presentations by people at your company at industry conferences or other internal groups? What about on LinkedIn or Twitter? These are great people to reach out to from the start.
 
-Forking might not always be the way to go - you can't fork into the same GitHub user account or organization so if for example you want to make a copy of [2021-Cloud-Hackathon](https://github.com/nasa-openscapes/2021-Cloud-Hackathon) repo within the same NASA-Openscapes GitHub Organization, you'll need to download instead of fork. In this case, follow these steps to download and copy into a new repository, and set up the GitHub Action separately.
+You can also use LinkedIn to find people from your company who may be interested. For advanced search functionality, you can do a [30-day free trial of LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/compare-plans). This will allow you to search for those at your company who are also in groups like:  
 
-#### Download github repo files
+- “R Project for Statistical Computing”
+- “Python Developers Community.”
 
-Navigate to <https://github.com/openscapes/quarto-website-tutorial> (or any other quarto site repo of choice). Click the green "Code" button and select "Download ZIP". When it downloads on your computer, unzip the files.
+### Be your own marketing team
 
-#### Create a new GitHub repo
+You can do it! Branding and making things look pretty is surprisingly (or maybe not surprising) very important. 
 
-Navigate to your GitHub account or organization, and create a new repository, naming it what you'd like. You'll need a free GitHub account that you create at [github.com](https://github.com) (follow [this advice](https://happygitwithr.com/github-acct.html) about choosing your username). When you're logged in, [github.com](https://github.com) will show a green button that says "New" which you'll also see as you navigate to your username's repository page.
+One tool that makes this easier is [Canva](https://www.canva.com/). Canva is an online design and publishing tool with a mission to empower everyone in the world to design anything and publish anywhere. You can create a free account to easily create logos and event images. 
 
-#### Add original site files
-
-To use the GitHub file uploader, click the button next to the green "Code" button that says "Add file". Add file \> Upload files. Then, on your computer, select all the files in unzipped folder (command-A or control-A), and drag them to the GitHub uploader page. Scroll down to write a commit message, which effectively saves your files when you're working in the browser.
-
-Note: if you're comfortable cloning the new repository and copying files into it locally before committing and pushing back to GitHub, that can be preferable to the uploader, which does have limitations with complex repos (although the uploader works fine with this tutorial repo).
-
-## Set up GitHub publishing {#setup-github-action}
-
-If you've used the GitHub uploader, you'll need to set up GitHub publishing separately. We'll do this in a few steps: we'll set up a GitHub Action within your repo, and create a `gh-pages` branch.
-
-**First, the GitHub Action**. Go back to your main view of your GitHub repository by clicking on the name of your repository in blue at the top-left (the url in your browser window should say https://github.com/username/repo-name).
-
-Next to the green code button, click Add file \> Create new file. Name it exactly this: `.github/workflows/quarto-publish.yml` . In detail: start by typing the `.` with `github` and when you type the `/` it will give you a new text box to type `workflows` (plural!), then another `/`, and finally, `quarto-publish.yml`.
-
-Now you'll have an empty new file. Paste the following in this empty file - you can click on the top-right of this box to copy all the code inside this code box:
-
-``` yaml
-on:
-  push:
-    branches: main
-
-name: Render and Publish
-
-jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v2 
-        
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          # To install LaTeX to build PDF book 
-          tinytex: true 
-          # uncomment below and fill to pin a version
-          # version: 0.9.600
-      
-      # add software dependencies here
-
-      - name: Publish to GitHub Pages (and render)
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
-```
-
-Commit this to save your new `quarto-publish.yml` file. This is your GitHub Action.
-
-**Next, we'll create a new `gh-pages` branch**. Go back to the main view of your GitHub repository. On the far left from the green "Code" button, click the button that says "main". In the pull-down menu, type `gh-pages` - all lowercase, with a hyphen. Click the bold text that says "Create branch: gh-pages from main".
-
-Now click on the Settings tab in the top right of your repository. On the left sidebar, click Pages. At the top of Pages under "Source", select `gh-pages` root, and press Save. You'll then see a green highlighted text saying that your site is published at a "github.io" url.
-
-![](images/github-source-gh-pages.png){fig-align="center" width="95%"}
-
-## Confirm your website is published {#confirm}
-
-To confirm that your website is published, go back to your main repository page. You'll now see an orange dot showing that the GitHub Action is beginning to publish the page.
-
-![Our repo with orange dot indicating in-progress GitHub Action build](images/github-action-orange.png){fig-alt="Screenshot of repo with orange dot indicating in-progress GitHub Action build" fig-align="center" width="95%"}
-
-If you do not see this orange dot, you might need to make a small commit to trigger the GitHub Actions build. If this is the case, click the pencil on the top-right of the README.md file as circled in the image below, add some small edit (like a space after a period), and scroll down to click commit. Now you should see the orange dot.
-
-![](images/github-edit-readme.png){fig-align="center" width="95%"}
-
-When your orange do becomes a green check, you can go inspect your published site at "https://username.github.io/your-repo). For example: <https://openscapes.github.io/quarto-website-tutorial>.
-
-![Our repo with green check indicating successful GitHub Action build](images/github-action-green.png){fig-alt="Screenshot of repo with green check indicating successful GitHub Action build" fig-align="center" width="95%"}
-
-## Renaming your repo
-
-If you'd like to rename your repo, go to Settings and the option to rename is on the top of the main settings page.
-
-## Onward!
-
-Now you are ready to start editing and publishing! The next chapter describes how starting off from the browser, using Markdown.
+As mentioned earlier with standardizing, try to find an event image format that you like and use this each month and adjust the speaker/title. It will make your life a lot easier than having to recreate the wheel every month and will also help people recognize your community events. 

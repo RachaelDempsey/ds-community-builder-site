@@ -34,14 +34,11 @@ website:
       - href: index.qmd
         text: Welcome
       - explore.qmd
-      - section: quarto-workflows/index.qmd
-        contents: 
-          - quarto-workflows/browser.md
-          - quarto-workflows/rstudio.qmd
-          - quarto-workflows/jupyter.md 
-      - learning-more.qmd
-      - href: transition-from-rmarkdown.qmd
-        text: Transition from Rmd
+      - building-engagement.qmd
+      - href: common-challenges.qmd
+        text: Common challenges to explore together
+      - href: learning-more.qmd
+        text: Community resources & examples
 
 
 format:

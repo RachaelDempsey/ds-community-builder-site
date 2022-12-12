@@ -3,9 +3,11 @@ title: "Starting & Engaging a Data Science Community"
 subtitle: "Reasons why, examples, advice to help you along the way, and much more."
 ---
 
+*Please note this website is a work in progress. If you'd like to contribute, please reach out to rachael@posit.co
+
 ## Hello there! {#welcome}
 
-Data Science Communities help us discover new capabilities, connect with others, and solve problems faster. They have an incredibly important role in growing a company's analytics maturity, while also helping us create connections at work.
+Data science communities help us discover new capabilities, connect with others, and solve problems faster. They have an incredibly important role in growing a company's analytics maturity, while also helping us create connections.
 
 [BetterUp surveyed 3,000+ US workers](https://www.betterup.com/blog/connection-crisis-impact-on-work) and found that “connection is the biggest opportunity leaders aren’t focusing on to win talent and build adaptable and resilient organizations.”
 

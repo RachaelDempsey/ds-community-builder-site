@@ -1,0 +1,23 @@
+---
+title: "Common challenges to explore and help each other with"
+editor: visual
+---
+
+### Community engagement 
+
+-   How can we help people become more comfortable speaking at community events?
+-   Ensuring that we all have a diverse set of people and perspectives to lead discussions
+-   How do we decrease the barrier to entry to speaking?
+-   Data science leaders have imposter syndrome as well - can we lean into that to help others?
+-   How to engage both beginners and experts?
+
+### Tools:
+
+-   What mediums are most helpful for engagement?
+-   Potential formats for community events: office hours, presentations, structure vs open-ended?
+
+### Organizational  
+
+-   How to ensure community members have protected time to learn?
+
+---

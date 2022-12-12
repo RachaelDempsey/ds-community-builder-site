@@ -1,21 +1,17 @@
 ---
-title: Learning more
+title: Community Resources & Examples
 ---
 
-## Learn more
+### Community Examples in the wild: 
+-   [R @ AZ: Building a Community in the Pharmaceutical Industry](https://www.rstudio.com/blog/building-a-community-in-the-pharmaceutical-industry/)
+-   [World Bank Shiny Day](https://www.worldbank.org/en/events/2021/04/28/-r-shiny-days#overview)
+-   [NHS R Community](https://nhsrcommunity.com/)
 
-An excellent overview: **Reproducible authoring with Quarto** - Mine Çetinkaya-Rundel, Feb 2022
-    -   [slides](https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/#/title-slide), [youtube](https://www.youtube.com/watch?v=6p4vOKS6Xls)
-    
-[A Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/) in June 2022, from Mine Çetinkaya-Rundel.
-
-### Examples in the wild: 
--   [Openscapes Champions Lessons Series](https://openscapes.github.io/series)
--   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/)\
--   [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
-
-See many more examples at the [quarto gallery](https://quarto.org/docs/gallery/)!
-
-### Inspiration
-
-Are you making onboarding documentation? Check out [The Fay Lab Manual](https://thefaylab.github.io/lab-manual/) (now in Quarto!) for inspiration on structure - you could also start there and make it your own.
+### Community Resources
+-   ["There's only one R in Pfizer: Attempts to harmonise R release across a large pharma organisation" - Mike Smith](https://www.youtube.com/watch?v=bnRdI6jvGpM)
+-   ["A Journey to Data Science: Tools for Equity and Diversity in STEM" - Ileana Fenwick](https://youtu.be/q4E5Z1B4IQA)
+-   ["We R KaggleRs - At the Intersection of Data Science Communities" - Martin Henze](https://youtu.be/WAp82jxf9RA)
+-   ["R at AstraZeneca: upskilling our workforce through education, experience, and exposure"](https://youtu.be/YfTIwi-KOts)
+-   ["Communicating the value of data science" - Merav Yuravlivker](https://youtu.be/xR9kGAZXpV4)
+-   [R User Group Community Explorer](https://benubah.github.io/r-community-explorer/rugs.html)
+-   ["Everything I learned about community building from growing up in a bar" - Rachael Dempsey](https://rachaeldempsey.quarto.pub/community-corner-blog/posts/post-with-code/#drink)
