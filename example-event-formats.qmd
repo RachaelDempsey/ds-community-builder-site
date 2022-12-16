@@ -1,0 +1,33 @@
+---
+title: "Example events & formats"
+editor: visual
+---
+
+There’s no standard format for an event, but this sample agenda and list of types of meetups will help you get started and maybe even spark some ideas of your own.
+
+#### Sample Agenda
+
+Javier Orraca, Senior Manager, Data Ops & Analytics at Bloomreach says, “In my prior role, we hosted a monthly R user group with the following agenda:  
+
+* Intro (3-5 min): We provide an overview about the guest presenter we will host and their presentation topic (always an internal R user that is doing something neat with R that could benefit our R programming community)
+* Company Data Science Updates (5 min): We discuss data warehouse and system updates that might impact our internal community
+* Package Updates (5-10 min): Here we cover major updates to existing popular packages and we update the audience on new and improved internally developed packages
+* Guest Presentation (30-40 min)
+* Call for Ideas / Topics to discuss in future meetups (5 min)”  
+
+#### Event Ideas
+
+Yanina Bellini Saibene, R-Ladies Global Team, MetaDocencia Core Team & LatinR Chair has hosted the following types of meetups:  
+
+* **Training that takes several meetings**. The most common are 4 weekly meetings. The introduction to R is the one that is most requested. For face-to-face meetings, universities, research institutes and municipalities will often provide locations with computers. For on-line, R-Ladies Global provides a Zoom account.
+
+* **Meetup to complete scholarships to participate in conferences**. For this one-day event, we got together and helped write or review scholarship applications to attend important conferences like useR! 
+
+* **Metameetups**. These events are organized between several chapters of the same country or that share the same language. They last between 1 to 3 hours. Talks or workshops are presented. This type of event was a huge success with the possibility of doing it online.
+
+* **Joint meetup with a conference**. We have hosted tutorials, conducted tutorials, or given talks about R and/or R-Ladies during particular conferences. There are also social events such as all R-Ladies eating together.
+
+* **Meetup – Your first talk.** An event where a safe and friendly space is generated for people to practice and deliver their first talk. The talk lasts between 5 to 10 minutes, after which feedback is provided.
+Book club meeting. Weekly or monthly meetings are held where different books related to R and data science are read and discussed (and if they have exercises they are solved together). The pandemic made it possible to organize these events between several chapters because of the online aspect.
+
+---

@@ -35,10 +35,12 @@ website:
         text: Welcome
       - explore.qmd
       - building-engagement.qmd
+      - example-event-formats.qmd
       - href: common-challenges.qmd
         text: Common challenges to explore together
       - href: learning-more.qmd
         text: Community resources & examples
+      - receive-recognition.qmd
 
 
 format:

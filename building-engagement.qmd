@@ -11,29 +11,37 @@ Creating a welcoming, open environment that people want to be a part of is a cru
 
 Think of virtual events as someone coming over to a party at your house. When someone walks in the front door, we don't expect them to all be the life of the party immediately. Similarly, it is going to take time for someone to start leading conversations and/or presenting at a community group.
 
-1. Welcome them in: take their jacket, show them around:
-      - Welcome people into our virtual space the same way: say hello, introduce yourself, let them know how they can ask questions, explain what the space is and how they can interact with others, etc. 
-2. Start a conversation to introduce them to someone else:
-      - Try to introduce people who have shared interests, bring people into the conversation, or simply give permission for conversation to happen in the chat as well
-3. Offer them food and drinks, make sure they're happy:
-      - Serve content that is useful to those attending, provide a way to answer their most pressing questions, and ask for their feedback
+1.  Welcome them in: take their jacket, show them around:
+    -   Welcome people into our virtual space the same way: say hello, introduce yourself, let them know how they can ask questions, explain what the space is and how they can interact with others, etc.
+2.  Start a conversation to introduce them to someone else:
+    -   Try to introduce people who have shared interests, bring people into the conversation, or simply give permission for conversation to happen in the chat as well
+3.  Offer them food and drinks, make sure they're happy:
+    -   Serve content that is useful to those attending, provide a way to answer their most pressing questions, and ask for their feedback
 
 ### Create a welcoming environment.
 
-::: {.column-margin}
+::: column-margin
 ![](images/community.png)
 :::
 
-It’s important to explicitly tell people what to expect and that all are welcome. For example:  
+It's important to explicitly tell people what to expect and that all are welcome. For example:
 
-- You may let people know this is an inclusive space, open to all regardless of their experience or background
-- Try letting people know ahead of an event that they’re free to join to just listen-in as well and don’t necessarily have to participate
-- Make it clear how to ask questions and give people an option to ask anonymously
-- Be ware of terms/lingo that new attendees may not know. Share definitions in the chat when acronyms come up.
+-   You may let people know this is an inclusive space, open to all regardless of their experience or background
+-   Try letting people know ahead of an event that they're free to join to just listen-in as well and don't necessarily have to participate
+-   Make it clear how to ask questions and give people an option to ask anonymously
+-   Be ware of terms/lingo that new attendees may not know. Share definitions in the chat when acronyms come up.
 
-A welcoming environment may look a lot different to you as the organizer than it does to a new attendee. 
+A welcoming environment may look a lot different to you as the organizer than it does to a new attendee.
 
 Are there people that have joined who may be open to giving you feedback? Try connecting with a few members to learn from them about their experience. For example: How did they find out about the group? Did it take them a few months to feel comfortable joining after learning about it?
+
+### Be proactive
+
+To build a vibrant community, you will likely have to reach outside of your initial network. Try the following:  
+
+* Connect with other users not in the community on LinkedIn or through your company channels  
+* Let people know when you think their work is great! For example: if you saw a blog post from someone at your company - let them know! You can also ask if they might be interested in sharing it at some point with the community.
+* Help in celebrating awesome work that people are doing across the team. Share your colleagues work when relevant.  
 
 ### Build relationships by thanking people
 
@@ -43,20 +51,31 @@ Send a note to say thank you to people for joining or for their contribution to 
 
 This also opens the door to a conversation. They may share feedback that will help with future events or let you know what worked well for them.
 
+### Encourage others
+
+Encouraging others to get involved is integral to sustaining a community. These tips may help get others involved in planning, sharing, and even leading topics at your next event:  
+
+* Spend 1:1 time with someone and say, “We’re planning to present this; would you be part of that? If you need any help prepping I would love that, it’d be great to debut your work because of x, y, z.”  
+* Try not to restrict the group to a certain topic or tool. Perhaps say, “We just want to share something interesting with each other that might benefit someone else”  
+* Offer a series of short, lightning talks so that someone might feel more comfortable presenting, especially if it’s their first time. 
+* Try asking, “What gap have you mastered lately?” This will get people talking from an “I learned standpoint” vs. an “I don’t know how” standpoint.
+* Encourage people to use the chat during virtual events or invite them into Slack/Teams/Discord/etc. channels. Someone may start to feel more comfortable meeting people this way and contributing here rather than presenting.
+
 ### Observe the unsaid
 
 After a community event, it can be helpful to take a few minutes to reflect on the experience and asses how it felt to you. Are there opportunities to learn from something that wasn't shared as well?
 
-For example:  
+For example:
 
-* Did you notice that there weren't as many women from the company on the call today?
-* Did you notice a few people had unmuted but didn't end up speaking?
-* What was the tone of the chat? Is there something you can do next time to kick off a conversation in the chat from the start?
+-   Did you notice that there weren't as many women from the company on the call today?
+-   Did you notice a few people had unmuted but didn't end up speaking?
+-   What was the tone of the chat? Is there something you can do next time to kick off a conversation in the chat from the start?
 
 ![](images/unsaid.jpg)
 
 Perhaps you can visualize the journey that your community members take. What path did someone take that allowed them to eventually feel comfortable presenting. Is there a way to help recreate that for others?
 
+*A special thank you to Edgar Gallo, Eric Nantz, Evan Munson, Frank Corrigan, Javier Orraca, Rick Scavetta, Tori Oblad, and Yanina Bellini Saibene for sharing these tips.*
 
 
----
+------------------------------------------------------------------------

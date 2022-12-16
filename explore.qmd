@@ -60,7 +60,7 @@ We've seen consistency work for many community initiatives:
 
 It’s important to point out that just because you hold events consistently doesn’t mean everyone will show up right away. It takes some time for things to catch on - and also requires incorporating the other tips below.
 
-#### Standardize where possible
+### Standardize where possible
 
 In being consistent, you are able to standardize as much as possible. Whether it’s office hours or a monthly meetup, you can create an event invitation, logo, and format that you use every time. This can help take care of a lot of the planning and also scheduling. When you have specific dates and times each week or month, you can schedule people into those slots as it fits their schedule rather than having to change each event to fit a specific speaker’s calendar. Once you get going and planning a few months out, this will become easier.
 
