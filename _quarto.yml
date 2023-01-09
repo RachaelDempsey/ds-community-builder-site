@@ -3,9 +3,9 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
-  site-url: "https://openscapes.github.io/quarto-website-tutorial" 
-  repo-url: https://github.com/openscapes/quarto-website-tutorial 
+  title: "Starting and Engaging a Data Science Community" 
+  site-url: "https://colorado.posit.co/rsc/ds-community-builder/" 
+  repo-url: https://github.com/RachaelDempsey/ds-community-builder-site
   repo-actions: [edit, issue]
   
   page-footer:
@@ -56,5 +56,3 @@ format:
 filters:
   - include-files.lua
   - quarto
-
-  
