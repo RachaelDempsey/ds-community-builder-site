@@ -3,14 +3,13 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
-  site-url: "https://openscapes.github.io/quarto-website-tutorial" 
-  repo-url: https://github.com/openscapes/quarto-website-tutorial 
+  title: "Data Science Community Builders" 
+  site-url: "https://colorado.posit.co/rsc/ds-community-builder/" 
+  repo-url: https://github.com/RachaelDempsey/ds-community-builder-site 
   repo-actions: [edit, issue]
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2022"
     
   sidebar:
     logo: "images/ds-community-logo.jpg"
@@ -21,7 +20,7 @@ website:
         href: https://join.slack.com/t/ds-communitybuilders/shared_invite/zt-1igdvgnhi-B_U1ra3HIy7axIJyv5wS1A
         text: "Data Science Community Builder Slack"
       - icon: github
-        href: https://github.com/openscapes/quarto-website-tutorial
+        href: https://github.com/RachaelDempsey/ds-community-builder-site
         text: "Website GitHub"
       - icon: link
         href: https://evt.to/aihmgeaow
