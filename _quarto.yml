@@ -3,9 +3,15 @@ project:
   
 website: 
   page-navigation: true
+<<<<<<< HEAD
   title: "Data Science Community Builders" 
   site-url: "https://colorado.posit.co/rsc/ds-community-builder/" 
   repo-url: https://github.com/RachaelDempsey/ds-community-builder-site 
+=======
+  title: "Starting and Engaging a Data Science Community" 
+  site-url: "https://colorado.posit.co/rsc/ds-community-builder/" 
+  repo-url: https://github.com/RachaelDempsey/ds-community-builder-site
+>>>>>>> 9292e1a37beb5d9cb418af6ad4678a9c3024a8ca
   repo-actions: [edit, issue]
   
   page-footer:
@@ -55,5 +61,3 @@ format:
 filters:
   - include-files.lua
   - quarto
-
-  
