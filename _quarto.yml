@@ -5,7 +5,7 @@ website:
   page-navigation: true
   title: "Data Science Community Builders" 
   site-url: "https://colorado.posit.co/rsc/ds-community-builder/" 
-  repo-url: https://github.com/RachaelDempsey/ds-community-builder-site 
+  repo-url: "https://github.com/RachaelDempsey/ds-community-builder-site" 
   repo-actions: [edit, issue]
   
   page-footer:
