@@ -6,90 +6,100 @@ title: Getting started
 
 I'm currently reading the book [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/) and was thinking about a "starting a community checklist." Here is a quick example:
 
-* Decide that you want to start an internal data science community
-* Identify people that you would invite to this community
-* Find someone that would be interested in leading it with you
-* Create a format that you will use to keep everyone connected (Slack, Teams, Yammer, Discord, etc.)
-* Identify an event that you’d like to hold consistently (maybe once a month to start)
-* Create an invitation for the event (could use a simple Email Invite, or use a tool like [AddEvent](https://addevent.com), [Meetup](https://meetup.com), etc.)
-* Create a logo for the event or recurring series using a tool like [Canva](https://canva.com)
-* Personally invite a small but diverse group of people to your first event (can ask if this is something they’d be interested in helping build: 
+1.  Decide that you want to start an internal data science community
 
-::: {.callout-note collapse="true"}
+2.  Identify people that you would invite to this community
 
-## Example I used
-Hi {Name}!,  
-I'm reaching out because we're building a new ongoing, community-oriented event for data science leaders. The mission is to highlight the perspective of experts in a casual, conversational setting with no agenda or slides...bringing lots of value to anyone in the data science community that chooses to participate.
+3.  Find someone that would be interested in leading it with you
 
-Is this something you'd be interested in helping build by being one of the featured leaders? I thought your experience with XYZ would be really valuable to the community.
+4.  Create a format that you will use to keep everyone connected (Slack, Teams, Yammer, Discord, etc.)
 
-Thanks so much!  
-Rachael
+5.  Identify an event that you'd like to hold consistently (maybe once a month to start)
 
-:::
+6.  Create an invitation for the event (could use a simple Email Invite, or use a tool like [AddEvent](https://addevent.com), [Meetup](https://meetup.com), etc.)
 
+7.  Create a logo for the event or recurring series using a tool like [Canva](https://canva.com)
 
-* Welcome people into the event by telling them what to expect, explaining how they can ask questions, and letting them know this is a space for everyone (if it is)
-* Write down the names of a few people that joined (maybe start with 5) and connect with them on LinkedIn or send them a message on your internal company channels to say “Thank you for joining the event today!”
-* Share a summary of resources shared, lessons learned, or the recording in your Slack, Teams, Yammer, Discord, etc. of your choice
-* Continue to hold your event consistently ☺️
-* Keep in contact with your attendees and comment on great work they have done. Ask them if they would be interested in sharing that in a few months - then try to lock down a date
-* Ask the group for feedback about what’s working well for them and what’s not
-* Take time to step back and decide what other opportunities there are for sustaining and growing this community
-* Celebrate the achievements of your community work by sharing with your direct manager and leadership
+8.  Personally invite a small but diverse group of people to your first event (can ask if this is something they'd be interested in helping build:
+
+    ::: {.callout-note collapse="true"}
+    ## Example I used
+
+    Hi {Name}!, I'm reaching out because we're building a new ongoing, community-oriented event for data science leaders. The mission is to highlight the perspective of experts in a casual, conversational setting with no agenda or slides...bringing lots of value to anyone in the data science community that chooses to participate.
+
+    Is this something you'd be interested in helping build by being one of the featured leaders? I thought your experience with XYZ would be really valuable to the community.
+
+    Thanks so much!\
+    Rachael
+    :::
+
+9.  Welcome people into the event by telling them what to expect, explaining how they can ask questions, and letting them know this is a space for everyone (if it is)
+
+10. Write down the names of a few people that joined (maybe start with 5) and connect with them on LinkedIn or send them a message on your internal company channels to say "Thank you for joining the event today!"
+
+11. Share a summary of resources shared, lessons learned, or the recording in your Slack, Teams, Yammer, Discord, etc. of your choice
+
+12. Continue to hold your event consistently ☺️
+
+13. Keep in contact with your attendees and comment on great work they have done. Ask them if they would be interested in sharing that in a few months - then try to lock down a date
+
+14. Ask the group for feedback about what's working well for them and what's not
+
+15. Take time to step back and decide what other opportunities there are for sustaining and growing this community
+
+16. Celebrate the achievements of your community work by sharing with your direct manager and leadership
 
 ### Identify your goals for your community to determine your strategy:
 
-What first led you to want to create a community? There were probably many points along the way where you thought, “this might be a great idea.”
+What first led you to want to create a community? There were probably many points along the way where you thought, "this might be a great idea."
 
-A few reasons from other organizers:  
+A few reasons from other organizers:
 
-- Create internal connections: many data scientists may work along in different business units, so it’s helpful to learn about others across the work.  
-- Increase collaboration: Draw on the creativity and power of a broad community across the company and work together to solve common problems.  
-- Grow the use of data science: Increase data literacy across the company by providing space for people to learn how to get started  
+-   Create internal connections: many data scientists may work along in different business units, so it's helpful to learn about others across the work.\
+-   Increase collaboration: Draw on the creativity and power of a broad community across the company and work together to solve common problems.\
+-   Grow the use of data science: Increase data literacy across the company by providing space for people to learn how to get started
 
-If you’re not 100% sure on your goals and strategy, don’t worry. Sometimes just getting started can be the best way. 
-
+If you're not 100% sure on your goals and strategy, don't worry. Sometimes just getting started can be the best way.
 
 ::: callout-tip
-Think of this as an experiment. It’s okay to try new things and see what works best. Everything isn’t set in stone. Experiment to see what works well for people across your company - every team may be different.
+Think of this as an experiment. It's okay to try new things and see what works best. Everything isn't set in stone. Experiment to see what works well for people across your company - every team may be different.
 :::
 
-### Community isn’t one single thing.
+### Community isn't one single thing.
 
-Community is a lot of little – and big things together. There are a lot of organizations taking a multi-pronged approach to community building. It’s not just having a Slack channel or Teams channel, it’s also different events, the way that you engage people across the company, etc.
+Community is a lot of little -- and big things together. There are a lot of organizations taking a multi-pronged approach to community building. It's not just having a Slack channel or Teams channel, it's also different events, the way that you engage people across the company, etc.
 
 In a recent R/Pharma workshop, there was a Community Building Workshop, which highlighted 3 companies upfront (AstraZeneca, Pfizer, and Johnson & Johnson) and the different initiatives that they lead.
 
-Community in these organizations includes many things like:  
+Community in these organizations includes many things like:
 
-- Monthly initiatives promoting a package or function as a blog post
-- TidyTuesday with a company dataset
-- Showcasing a community leader each month from the organization and asking them 10 questions
-- Monthly community meetings with 2 presentations each month
-- Monthly newsletter curated for the community
-- Annual conference (for ex: Shiny Day) with live workshop & half day of groups presenting their apps/use-cases
-- Central repository with all material: learning pathways, internal videos, etc.
+-   Monthly initiatives promoting a package or function as a blog post
+-   TidyTuesday with a company dataset
+-   Showcasing a community leader each month from the organization and asking them 10 questions
+-   Monthly community meetings with 2 presentations each month
+-   Monthly newsletter curated for the community
+-   Annual conference (for ex: Shiny Day) with live workshop & half day of groups presenting their apps/use-cases
+-   Central repository with all material: learning pathways, internal videos, etc.
 
 ### Be consistent.
 
 Building communities takes time. People need to know what to expect and when.
 
-Rachael Dempsey shared in her [2022 RStudio Conference talk](https://www.rstudio.com/conference/2022/talks/everything-learned-community-building-learned/), that much of what she learned about community building actually came from growing up in a restaurant. 
+Rachael Dempsey shared in her [2022 RStudio Conference talk](https://www.rstudio.com/conference/2022/talks/everything-learned-community-building-learned/), that much of what she learned about community building actually came from growing up in a restaurant.
 
-At many restaurants there are certain days that are often associated with certain foods or certain events. One easy one to remember is Taco Tuesday. People don’t come to every single Tuesday, but when they have a free night or when they’re looking for something to do with friends, they know exactly where they can go. It remains top of mind on a Tuesday. 
+At many restaurants there are certain days that are often associated with certain foods or certain events. One easy one to remember is Taco Tuesday. People don't come to every single Tuesday, but when they have a free night or when they're looking for something to do with friends, they know exactly where they can go. It remains top of mind on a Tuesday.
 
-We've seen consistency work for many community initiatives:  
+We've seen consistency work for many community initiatives:
 
-- Every Thursday at 12 ET, Posit hosts a Data Science Hangout. Every week a different data science leader from the community joins as a co-host to answer questions from the community. There's no presentation at these sessions and all the questions are audience led. A few examples: How do I talk to executives? How are you thinking about hiring right now? Should I have a centralized or decentralized data science team?
-- At John Deere, they host bi-weekly office hours for a variety of different tools (PowerBI, Tableau, Posit Team, etc.) for beginners to bring their questions and connect with each other and power users.
-- AstraZeneca hosts a Lunch & LeaRn that takes place at lunchtime, alternating between European and US timezones.
+-   Every Thursday at 12 ET, Posit hosts a Data Science Hangout. Every week a different data science leader from the community joins as a co-host to answer questions from the community. There's no presentation at these sessions and all the questions are audience led. A few examples: How do I talk to executives? How are you thinking about hiring right now? Should I have a centralized or decentralized data science team?
+-   At John Deere, they host bi-weekly office hours for a variety of different tools (PowerBI, Tableau, Posit Team, etc.) for beginners to bring their questions and connect with each other and power users.
+-   AstraZeneca hosts a Lunch & LeaRn that takes place at lunchtime, alternating between European and US timezones.
 
-It’s important to point out that just because you hold events consistently doesn’t mean everyone will show up right away. It takes some time for things to catch on - and also requires incorporating the other tips below.
+It's important to point out that just because you hold events consistently doesn't mean everyone will show up right away. It takes some time for things to catch on - and also requires incorporating the other tips below.
 
 ### Standardize where possible
 
-In being consistent, you are able to standardize as much as possible. Whether it’s office hours or a monthly meetup, you can create an event invitation, logo, and format that you use every time. This can help take care of a lot of the planning and also scheduling. When you have specific dates and times each week or month, you can schedule people into those slots as it fits their schedule rather than having to change each event to fit a specific speaker’s calendar. Once you get going and planning a few months out, this will become easier.
+In being consistent, you are able to standardize as much as possible. Whether it's office hours or a monthly meetup, you can create an event invitation, logo, and format that you use every time. This can help take care of a lot of the planning and also scheduling. When you have specific dates and times each week or month, you can schedule people into those slots as it fits their schedule rather than having to change each event to fit a specific speaker's calendar. Once you get going and planning a few months out, this will become easier.
 
 ### Find your core group
 
@@ -97,15 +107,15 @@ Be intentional when starting your core group. Try to include a diverse group of 
 
 When finding people who may be interested, think about who you may already know from your company. Have you seen other presentations by people at your company at industry conferences or other internal groups? What about on LinkedIn or Twitter? These are great people to reach out to from the start.
 
-You can also use LinkedIn to find people from your company who may be interested. For advanced search functionality, you can do a [30-day free trial of LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/compare-plans). This will allow you to search for those at your company who are also in groups like:  
+You can also use LinkedIn to find people from your company who may be interested. For advanced search functionality, you can do a [30-day free trial of LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/compare-plans). This will allow you to search for those at your company who are also in groups like:
 
-- “R Project for Statistical Computing”
-- “Python Developers Community.”
+-   "R Project for Statistical Computing"
+-   "Python Developers Community."
 
 ### Be your own marketing team
 
-You can do it! Branding and making things look pretty is surprisingly (or maybe not surprising) very important. 
+You can do it! Branding and making things look pretty is surprisingly (or maybe not surprising) very important.
 
-One tool that makes this easier is [Canva](https://www.canva.com/). Canva is an online design and publishing tool with a mission to empower everyone in the world to design anything and publish anywhere. You can create a free account to easily create logos and event images. 
+One tool that makes this easier is [Canva](https://www.canva.com/). Canva is an online design and publishing tool with a mission to empower everyone in the world to design anything and publish anywhere. You can create a free account to easily create logos and event images.
 
-As mentioned earlier with standardizing, try to find an event image format that you like and use this each month and adjust the speaker/title. It will make your life a lot easier than having to recreate the wheel every month and will also help people recognize your community events. 
+As mentioned earlier with standardizing, try to find an event image format that you like and use this each month and adjust the speaker/title. It will make your life a lot easier than having to recreate the wheel every month and will also help people recognize your community events.
