@@ -2,14 +2,41 @@
 title: Getting started
 ---
 
-## Considerations for getting started:  
-- What is the goal for your community?
-- How often will the community get together?
-- Who will be part of the community?
-- How do we get people engaged?
-- How do we market it?
-- What should we talk about?
-- Who will help lead it?
+## Checklist:
+
+I'm currently reading the book [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/) and was thinking about a "starting a community checklist." Here is a quick example:
+
+* Decide that you want to start an internal data science community
+* Identify people that you would invite to this community
+* Find someone that would be interested in leading it with you
+* Create a format that you will use to keep everyone connected (Slack, Teams, Yammer, Discord, etc.)
+* Identify an event that you’d like to hold consistently (maybe once a month to start)
+* Create an invitation for the event (could use a simple Email Invite, or use a tool like [AddEvent](https://addevent.com), [Meetup](https://meetup.com), etc.)
+* Create a logo for the event or recurring series using a tool like [Canva](https://canva.com)
+* Personally invite a small but diverse group of people to your first event (can ask if this is something they’d be interested in helping build: 
+
+::: {.callout-note collapse="true"}
+
+## Example I used
+Hi {Name}!,  
+I'm reaching out because we're building a new ongoing, community-oriented event for data science leaders. The mission is to highlight the perspective of experts in a casual, conversational setting with no agenda or slides...bringing lots of value to anyone in the data science community that chooses to participate.
+
+Is this something you'd be interested in helping build by being one of the featured leaders? I thought your experience with XYZ would be really valuable to the community.
+
+Thanks so much!  
+Rachael
+
+:::
+
+
+* Welcome people into the event by telling them what to expect, explaining how they can ask questions, and letting them know this is a space for everyone (if it is)
+* Write down the names of a few people that joined (maybe start with 5) and connect with them on LinkedIn or send them a message on your internal company channels to say “Thank you for joining the event today!”
+* Share a summary of resources shared, lessons learned, or the recording in your Slack, Teams, Yammer, Discord, etc. of your choice
+* Continue to hold your event consistently ☺️
+* Keep in contact with your attendees and comment on great work they have done. Ask them if they would be interested in sharing that in a few months - then try to lock down a date
+* Ask the group for feedback about what’s working well for them and what’s not
+* Take time to step back and decide what other opportunities there are for sustaining and growing this community
+* Celebrate the achievements of your community work by sharing with your direct manager and leadership
 
 ### Identify your goals for your community to determine your strategy:
 
