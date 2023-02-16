@@ -1,0 +1,34 @@
+---
+title: "Internal Data Science Hangout"
+editor: visual
+---
+
+One example for a weekly or monthly event is the [Data Science Hangout](https://posit.co/data-science-hangout), hosted by Posit. While this event is open to the public, you may want to consider hosting one internal to your organization to get to know different data people, their use cases, challenges, ideas, etc.
+
+Here's an example Data Science Hangout featuring Mike Smith, Senior Director, Pfizer R&D UK Ltd.
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dy1R2-jEeJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+
+The Data Science Hangout is a gathering place for the whole data science community - including current and future data science leaders - to chat about data science leadership and questions you're all facing every Thursday at 12 ET.
+
+There's no hard agenda or predetermined talk tracks: just an expert or two willing to share their perspectives on what’s really going on in data science at an organizational level.
+
+You can check out the [full list of recordings here](https://www.youtube.com/playlist?list=PL9HYL-VRX0oTu3bUoyYknD-vpR7Uq6bsR).
+
+Benefit to holding one of these events at your company:  
+
+* People can learn what other teams are doing by featuring a different data person each session
+* There is minimal planning required for the speaker as there are no slides or presentation
+
+Tips for making this inclusive:  
+
+* Let people know ahead of time that all are welcome, no matter their experience
+* Ensure people know that they can listen-in and it's okay to come for only part of the session if they want
+* Give an option for people to ask questions anonymously until they get more comfortable asking live (a tool for this we've used is Slido)
+* Welcome people in each week and let them know how they can participate
+* Feature a diverse group of data scientists/analysts/whichever role across many teams
+
+
+

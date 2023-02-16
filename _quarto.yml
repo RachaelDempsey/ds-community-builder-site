@@ -30,16 +30,20 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - href: index.qmd
+      - href: about.qmd
         text: Welcome
-      - explore.qmd
-      - building-engagement.qmd
-      - example-event-formats.qmd
+      - href: explore.qmd
+        text: Getting started
+      - href: building-engagement.qmd
+        text: Building engagement
+      - href: index.qmd
+        text: Example talks
       - href: common-challenges.qmd
         text: Common challenges to explore together
       - href: learning-more.qmd
         text: Community resources & examples
-      - receive-recognition.qmd
+      - href: receive-recognition.qmd
+        text: Receiving recognition
 
 
 format:
