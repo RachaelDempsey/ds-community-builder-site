@@ -5,9 +5,9 @@ account: rachael
 server: colorado.posit.co
 hostUrl: https://colorado.posit.co/rsc/__api__
 appId: 14045
-bundleId: 69480
+bundleId: 69487
 url: https://colorado.posit.co/rsc/ds-community-builder/
-when: 1676584697.69335
-lastSyncTime: 1676584697.69336
+when: 1676588460.56997
+lastSyncTime: 1676588460.56998
 asMultiple: FALSE
 asStatic: TRUE

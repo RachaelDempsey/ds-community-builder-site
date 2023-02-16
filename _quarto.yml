@@ -30,14 +30,14 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - href: about.qmd
+      - href: index.qmd
         text: Welcome
       - href: explore.qmd
         text: Getting started
       - href: building-engagement.qmd
         text: Building engagement
-      - href: index.qmd
-        text: Example talks
+      - href: talks.qmd
+        text: Example formats & talks
       - href: common-challenges.qmd
         text: Common challenges to explore together
       - href: learning-more.qmd

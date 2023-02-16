@@ -1,13 +1,29 @@
 ---
-listing:
-  contents: "posts/*/index.qmd"
-  feed: true
-  type: grid
-  categories: true
-  sort-ui: true
-  filter-ui: true
-  image-placeholder: images/image-placeholder.png
-  fields: [image, date, title, description]
-page-layout: full
-title-block-banner: true
+title: "Starting & Engaging a Data Science Community"
+subtitle: "Reasons why, examples, advice to help you along the way, and much more."
 ---
+
+*Please note this website is a work in progress. I'd love to have you share your own experience and tips. You can contribute through [GitHub](https://github.com/RachaelDempsey/ds-community-builder-site) or email rachael@posit.co.
+
+## Hello there! {#welcome}
+
+Data science communities help us discover new capabilities, connect with others, and solve problems faster. They have an incredibly important role in growing a company's analytics maturity, while also helping us create connections.
+
+[BetterUp surveyed 3,000+ US workers](https://www.betterup.com/blog/connection-crisis-impact-on-work) and found that “connection is the biggest opportunity leaders aren’t focusing on to win talent and build adaptable and resilient organizations.”
+
+Meanwhile, [Gartner](https://www.linkedin.com/posts/davidpidsley_gartner-gartnerda-analytics-activity-6980557134065213440-14We/?utm_source=share&utm_medium=member_desktop) also reports that organizations are struggling to foster Data & Analytics communities that are needed to grow adoption of otherwise promising analytics initiatives. 
+
+The community building that you do is a huge benefit to your organization. People want to be able to work and collaborate with others to learn and solve problems. Solving problems faster and retaining talent also saves your company money. Remember the value that you are bringing to the company as well.
+
+### Kudos
+
+Before diving in, kudos to you for taking the first steps (or the 100th step) in leading a community, bringing people together, and making a difference. While it’s not easy, it is definitely very rewarding. There are also a lot of great community organizers who have offered up advice and are willing to help as well. We all face challenges along the way and can help each other as well. Let’s get started!
+
+
+## Want to join a community of organizers?
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd48V2RwV8W-1k3OaHAE-1nDtmRqrCBZ4Cu9zUW_jKG4VpfmQ/viewform?embedded=true" width="640" height="1445" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+## Contributors to this site:
+
+Thank you to Julia Stewart Lowndes and Stefanie Butland who created the [Openscapes Quarto Website Tutorial](https://github.com/openscapes/quarto-website-tutorial) that provided the framework for this site.
