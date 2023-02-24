@@ -1,3 +1,4 @@
+**Example community formats & talks:**
 ---
 listing:
   contents: "posts/*/index.qmd"
@@ -11,3 +12,4 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+

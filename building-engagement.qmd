@@ -37,11 +37,11 @@ Are there people that have joined who may be open to giving you feedback? Try co
 
 ### Be proactive
 
-To build a vibrant community, you will likely have to reach outside of your initial network. Try the following:  
+To build a vibrant community, you will likely have to reach outside of your initial network. Try the following:
 
-* Connect with other users not in the community on LinkedIn or through your company channels  
-* Let people know when you think their work is great! For example: if you saw a blog post from someone at your company - let them know! You can also ask if they might be interested in sharing it at some point with the community.
-* Help in celebrating awesome work that people are doing across the team. Share your colleagues work when relevant.  
+-   Connect with other users not in the community on LinkedIn or through your company channels\
+-   Let people know when you think their work is great! For example: if you saw a blog post from someone at your company - let them know! You can also ask if they might be interested in sharing it at some point with the community.
+-   Help in celebrating awesome work that people are doing across the team. Share your colleagues work when relevant.
 
 ### Build relationships by thanking people
 
@@ -53,13 +53,13 @@ This also opens the door to a conversation. They may share feedback that will he
 
 ### Encourage others
 
-Encouraging others to get involved is integral to sustaining a community. These tips may help get others involved in planning, sharing, and even leading topics at your next event:  
+Encouraging others to get involved is integral to sustaining a community. These tips may help get others involved in planning, sharing, and even leading topics at your next event:
 
-* Spend 1:1 time with someone and say, “We’re planning to present this; would you be part of that? If you need any help prepping I would love that, it’d be great to debut your work because of x, y, z.”  
-* Try not to restrict the group to a certain topic or tool. Perhaps say, “We just want to share something interesting with each other that might benefit someone else”  
-* Offer a series of short, lightning talks so that someone might feel more comfortable presenting, especially if it’s their first time. 
-* Try asking, “What gap have you mastered lately?” This will get people talking from an “I learned standpoint” vs. an “I don’t know how” standpoint.
-* Encourage people to use the chat during virtual events or invite them into Slack/Teams/Discord/etc. channels. Someone may start to feel more comfortable meeting people this way and contributing here rather than presenting.
+-   Spend 1:1 time with someone and say, "We're planning to present this; would you be part of that? If you need any help prepping I would love that, it'd be great to debut your work because of x, y, z."\
+-   Try not to restrict the group to a certain topic or tool. Perhaps say, "We just want to share something interesting with each other that might benefit someone else"\
+-   Offer a series of short, lightning talks so that someone might feel more comfortable presenting, especially if it's their first time.
+-   Try asking, "What gap have you mastered lately?" This will get people talking from an "I learned standpoint" vs. an "I don't know how" standpoint.
+-   Encourage people to use the chat during virtual events or invite them into Slack/Teams/Discord/etc. channels. Someone may start to feel more comfortable meeting people this way and contributing here rather than presenting.
 
 ### Observe the unsaid
 
@@ -76,6 +76,5 @@ For example:
 Perhaps you can visualize the journey that your community members take. What path did someone take that allowed them to eventually feel comfortable presenting. Is there a way to help recreate that for others?
 
 *A special thank you to Edgar Gallo, Eric Nantz, Evan Munson, Frank Corrigan, Javier Orraca, Rick Scavetta, Tori Oblad, and Yanina Bellini Saibene for sharing these tips.*
-
 
 ------------------------------------------------------------------------

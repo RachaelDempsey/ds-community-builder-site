@@ -2,7 +2,7 @@
 title: "Internal Data Science Hangout"
 editor: visual
 categories: [virtual]
-image: "featured2.png"
+image: "featured.png"
 image-alt: "Data Science Hangout, You're in good company: Join a community of data scientists that share insights about what it means to be a responsible, effective, and inspiring leader"
 ---
 

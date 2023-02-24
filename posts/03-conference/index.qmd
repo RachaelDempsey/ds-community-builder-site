@@ -1,0 +1,46 @@
+---
+title: "Internal Data Science Conference"
+editor: visual
+categories: [virtual, in-person]
+image: "featured.png"
+image-alt: "Meetup logo"
+---
+
+An internal data science conference is a great way to meet others across your organization and get other new users interested in your community. 
+
+It can help keep your team current on new technology, increase collaboration, and give people a better idea of the work being done in other parts of the organization, and celebrate that work!
+
+#### **Conference ideas:**
+
+-   Company-wide data science day
+-   Shiny Day
+-   Data science hackathon/competition
+
+#### **Examples:**
+
+**AstraZeneca:**
+
+AstraZeneca spoke about their internal R Conference, #AZRC2022, in a [blog post](https://www.rstudio.com/blog/building-a-community-in-the-pharmaceutical-industry/) and meetup. This was a fully virtual, half-day conference with Max Kuhn as a keynote speaker, more than 30 speakers, and close to 100 poster authors. They ran three parallel tracks: governance, machine learning, and reproducibility.
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfTIwi-KOts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+
+**World Bank**
+
+The World Bank hosted a Shiny Day (actually 2-days!) to demonstrate how Shiny can be used in the context of bank projects. From their [event overview site](https://www.worldbank.org/en/events/2021/04/28/-r-shiny-days), this included a series of lightning talks, a keynote by Carson Sievert from Posit's Shiny team, and interactive workshops.
+
+The site linked above includes more detail, but the general agenda for this was:
+
+Day 1:  
+
+* 9:30 - 11am: Beginners workshop - "How to build a Shiny app"
+* 11:15 - 12:30: 7 different lightning talks (6-minutes each)
+* 12:45 - 2:15: Intermediate workshop - "How to customize reactions"
+
+Day 2:  
+
+* 9:30 - 11am: Advanced workshop - "How to customize appearance"
+* 11:15 - 12:30: Posit Keynote
+* 12:45 - 2:15: Advanced workshop - "Shiny in production: maintenance and speed"
+
