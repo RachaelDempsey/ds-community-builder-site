@@ -2,10 +2,10 @@
 title: Getting started
 ---
 
-## Checklist:
+The book [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/), shares that experts (whether doctors, pilots, or whoever) need checklists-literally- written guides that walk them through the steps of any complex procedure. Here is a starting point for building a community from the ground up.
 
-I'm currently reading the book [Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/) and was thinking about a "starting a community checklist." Here is a quick example:
-
+::: {.callout-note collapse="false"}
+## Checklist for starting a community
 1.  Decide that you want to start an internal data science community
 
 2.  Identify people that you would invite to this community
@@ -48,12 +48,15 @@ I'm currently reading the book [Checklist Manifesto](http://atulgawande.com/book
 15. Take time to step back and decide what other opportunities there are for sustaining and growing this community
 
 16. Celebrate the achievements of your community work by sharing with your direct manager and leadership
+:::
 
-### Identify your goals for your community to determine your strategy:
+### What is your goal for you community? 
+
+This will help you determine your strategy.
 
 What first led you to want to create a community? There were probably many points along the way where you thought, "this might be a great idea."
 
-A few reasons from other organizers:
+A few goals shared from other organizers:
 
 -   Create internal connections: many data scientists may work along in different business units, so it's helpful to learn about others across the work.\
 -   Increase collaboration: Draw on the creativity and power of a broad community across the company and work together to solve common problems.\

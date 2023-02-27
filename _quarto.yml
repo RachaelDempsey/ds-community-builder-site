@@ -37,10 +37,10 @@ website:
       - href: building-engagement.qmd
         text: Building engagement
       - href: talks.qmd
-        text: Example formats & talks
+        text: Example event formats
       - href: common-challenges.qmd
         text: Common challenges to explore together
-      - href: learning-more.qmd
+      - href: resources.qmd
         text: Community resources & examples
       - href: receive-recognition.qmd
         text: Receiving recognition

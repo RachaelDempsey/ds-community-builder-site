@@ -1,0 +1,21 @@
+---
+title: "Community Examples & Resources"
+listing:
+  id: community-listing
+  contents:
+    - "metadata.yml"
+  type: grid
+  fields: [date, title, author, subtitle, categories, image]
+  categories: true
+  sort: "date desc"
+  image-height: 100%
+page-layout: full
+title-block-banner-color: "white"
+title-block-style: plain
+---
+
+Learn from others building and growing communities all around the world:
+
+::: {#community-listing}
+:::
+
