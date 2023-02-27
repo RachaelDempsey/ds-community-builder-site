@@ -3,18 +3,74 @@ title: "Internal Data Science Conference"
 editor: visual
 categories: [virtual, in-person]
 image: "featured.png"
-image-alt: "Meetup logo"
+image-alt: "Group of people at a conference"
 ---
 
-An internal data science conference is a great way to meet others across your organization and get other new users interested in your community. 
+![](featured.png){fig-alt="Group of people at a conference"}
 
-It can help keep your team current on new technology, increase collaboration, and give people a better idea of the work being done in other parts of the organization, and celebrate that work!
+An internal data science conference is a great way to meet others across your organization and grow your community.
 
-#### **Conference ideas:**
+It can help keep your team current on new technology, increase collaboration, give people a view into the work being done in other parts of the organization, and celebrate that work.
+
+#### **Items to consider:**
+
+::: {.callout-note appearance="simple" collapse="true"}
+## Who is this event for?
+
+-   What teams for your organization will be part of it?
+-   Which timezones are you accommodating?
+-   Beginners and advanced users?
+:::
+
+::: {.callout-note appearance="simple" collapse="true"}
+## What is the format of your event?
+
+-   One day, multiple days? Hybrid, in-person, or virtual only?
+-   Keynote? Workshops and talks? How do you want to split them up?
+-   Will they be company-led speakers or do you want Posit to present at any?
+:::
+
+::: {.callout-note appearance="simple" collapse="true"}
+## What is the key theme or main motivation of the conference?
+
+For example: Bringing the community together so that we collaborate more effectively.
+:::
+
+::: {.callout-note appearance="simple" collapse="true"}
+## How will you market the event?
+
+-   Do you have an internal site for the conference? A logo?
+-   Do you have internal channels to share this on? Teams? Slack? Newsletters?
+-   Will this be shared at a leadership level?
+-   Can Posit help in connecting you with other teams we work with?
+:::
+
+::: {.callout-note appearance="simple" collapse="true"}
+## What is the follow-up?
+
+This is a great opportunity to build relationships across the company. The follow-up actions are just as important as the event itself. Think about the ways you can keep people connected in between these conferences.
+
+-   Will you share recordings and slides? 
+-   How will people stay connected after the event?
+:::
+
+::: {.callout-note appearance="simple" collapse="false"}
+## Conference ideas:
 
 -   Company-wide data science day
 -   Shiny Day
 -   Data science hackathon/competition
+:::
+
+::: {.callout-note appearance="simple" collapse=true}
+## We'd love to help you in getting started!
+
+```{=html}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvaw6dETMU2cfgPkil5Gc5dJGYCdoRhZbLOj7pXOzmwsqpVA/viewform?embedded=true" width="640" height="1838" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+```
+:::
+
+
 
 #### **Examples:**
 
@@ -25,22 +81,20 @@ AstraZeneca spoke about their internal R Conference, #AZRC2022, in a [blog post]
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfTIwi-KOts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
-
 **World Bank**
 
 The World Bank hosted a Shiny Day (actually 2-days!) to demonstrate how Shiny can be used in the context of bank projects. From their [event overview site](https://www.worldbank.org/en/events/2021/04/28/-r-shiny-days), this included a series of lightning talks, a keynote by Carson Sievert from Posit's Shiny team, and interactive workshops.
 
 The site linked above includes more detail, but the general agenda for this was:
 
-Day 1:  
+Day 1:
 
-* 9:30 - 11am: Beginners workshop - "How to build a Shiny app"
-* 11:15 - 12:30: 7 different lightning talks (6-minutes each)
-* 12:45 - 2:15: Intermediate workshop - "How to customize reactions"
+-   9:30 - 11am: Beginners workshop - "How to build a Shiny app"
+-   11:15 - 12:30: 7 different lightning talks (6-minutes each)
+-   12:45 - 2:15: Intermediate workshop - "How to customize reactions"
 
-Day 2:  
+Day 2:
 
-* 9:30 - 11am: Advanced workshop - "How to customize appearance"
-* 11:15 - 12:30: Posit Keynote
-* 12:45 - 2:15: Advanced workshop - "Shiny in production: maintenance and speed"
-
+-   9:30 - 11am: Advanced workshop - "How to customize appearance"
+-   11:15 - 12:30: Posit Keynote
+-   12:45 - 2:15: Advanced workshop - "Shiny in production: maintenance and speed"

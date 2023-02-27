@@ -3,15 +3,17 @@ title: "Common challenges to explore and help each other with"
 editor: visual
 ---
 
-On the second Tuesday of every month, community builders across the world get together for a coffee hour. 
+On the second Tuesday of every month, community builders across the world get together for a coffee hour.
 
-^*This sentence made it sound like the group is huge, but there are less than 20 of us starting this out!*  It's a casual, fun time to share a bit about the communities we're part of or the ones we'd like to start, learn from our community-builder peers, and just meet each other :)
+\^*This sentence made it sound like the group is huge, but there are less than 20 of us starting this out!* It's a casual, fun time to share a bit about the communities we're part of or the ones we'd like to start, learn from our community-builder peers, and just meet each other :)
+
+![](images/coffeehour.png){fig-alt="data science community builder coffee hour"}
 
 All are welcome to join in the discussion or listen-in. If you'd like to add it to your calendar you can [do so here](https://www.addevent.com/event/fy15703216).
 
 We discuss some of the challenges included below:
 
-### Community engagement 
+### Community engagement
 
 -   How can we help people become more comfortable speaking at community events?
 -   Ensuring that we all have a diverse set of people and perspectives to lead discussions
@@ -24,9 +26,9 @@ We discuss some of the challenges included below:
 -   What mediums are most helpful for engagement?
 -   Potential formats for community events: office hours, presentations, structure vs open-ended?
 
-### Organizational  
+### Organizational
 
 -   How to ensure community members have protected time to learn?
 -   What are some tips for building relationships with others across the company?
 
----
+------------------------------------------------------------------------
