@@ -1,0 +1,23 @@
+---
+title: "Office Hours / Hot Desk"
+editor: visual
+categories: [virtual, in-person]
+image: "az-hotdesk.jpg"
+image-alt: "AstraZeneca hot desk hex sticker"
+---
+
+### AstraZeneca
+
+AstraZeneca launched the R Hot Desk at their [Gothenburg site](https://www.astrazeneca.com/our-company/our-locations/gothenburg.html). The idea is the following: once a month, a few R experts meet in an open area of their offices and dedicate two hours of their time to answer R-related questions.
+
+While this happens once a month, they have one R @ AZ initiative per week.
+
+You can [learn more about their other initiatives here](https://www.rstudio.com/blog/building-a-community-in-the-pharmaceutical-industry/).
+
+### John Deere
+
+The team at John Deere have groups around PowerBI, Tableau, Posit, Alteryx, Data Robot, etc.
+
+They host "beginner office hours" every other week. Their team shared that by adding the word "beginner" to the office hours sessions grew their attendance by 10x!
+
+Power users still dialed in to the beginner office hours, but they now felt more empowered to help other users because it was a space for beginners.
