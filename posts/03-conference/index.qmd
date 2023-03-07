@@ -50,7 +50,7 @@ For example: Bringing the community together so that we collaborate more effecti
 
 This is a great opportunity to build relationships across the company. The follow-up actions are just as important as the event itself. Think about the ways you can keep people connected in between these conferences.
 
--   Will you share recordings and slides?
+-   Will you share recordings and slides? 
 -   How will people stay connected after the event?
 :::
 
@@ -62,13 +62,15 @@ This is a great opportunity to build relationships across the company. The follo
 -   Data science hackathon/competition
 :::
 
-::: {.callout-note appearance="simple" collapse="true"}
+::: {.callout-note appearance="simple" collapse=true}
 ## We'd love to help you in getting started!
 
 ```{=html}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvaw6dETMU2cfgPkil5Gc5dJGYCdoRhZbLOj7pXOzmwsqpVA/viewform?embedded=true" width="640" height="1838" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ```
 :::
+
+
 
 #### **Examples:**
 

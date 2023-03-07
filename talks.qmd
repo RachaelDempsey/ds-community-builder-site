@@ -1,7 +1,4 @@
 **Example community formats & talks:**
-
-Sometimes it can be helpful to borrow from other community organizers, rather than starting from scratch. Here are a few formats that have worked for others: 
-
 ---
 listing:
   contents: "posts/*/index.qmd"
