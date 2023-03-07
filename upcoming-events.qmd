@@ -1,0 +1,30 @@
+---
+editor: visual
+---
+
+**Please note this is a template site. Feel free to use and change this as you want**
+
+We'd love to see you at an upcoming community event! 
+
+We host the following events at XYZ Company:  
+
+* Beginner Office Hours every Tuesday from 11-11:30 am ET
+* Internal Meetup to highlight use cases the first Wednesday of every month at 9 am ET
+* Data Science Conference - once a year
+
+You can use the calendar below to add individual events to your calendar or subscribe in the right-hand corner to be notified of every event.
+
+::: {.callout-tip collapse="TRUE"}
+## Tip for your own site
+
+You can use [AddEvent](https://addevent.com) to create a free account for people to add each community event to their calendar. AddEvent provides the html code chunk needed to embed this calendar into your own site.
+:::
+
+
+::: {#calendar .column-page}
+```{=html}
+<div class="ae-emd-cal" data-calendar="wT379734" data-configure="false"></div><script type="text/javascript">(function(){var e = document.createElement("script");e.type = "text/javascript";e.async = true;e.src = "https://cdn.addevent.com/libs/cal/js/cal.embed.t1.init.js";e.className = "ae-emd-script";document.getElementsByTagName("body")[0].appendChild(e);})();</script>
+```
+:::
+
+

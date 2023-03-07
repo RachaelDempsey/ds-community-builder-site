@@ -1,0 +1,34 @@
+Company XYZ has Posit Team: Posit Workbench, Posit Connect, Posit Package Manager available across the organization. To request access, please contact: sales@posit.co (insert your own company contact)
+
+<center>
+![](images/posit-team-map.jpeg){width=500}
+
+<br>
+
+Once you have access to the tools, you can access each of them below:
+</center>
+
+<br>
+
+---
+listing:
+  id: posit-listing
+  contents:
+    - "positmetadata.yml"
+  type: grid
+  fields: [date, title, categories, author, subtitle, image]
+  categories: true
+  sort: "date desc"
+  image-height: 100%
+page-layout: full
+title-block-banner-color: "white"
+title-block-style: plain
+---
+
+::: {#posit-listing}
+:::
+
+## Helpful resources:
+
+
+

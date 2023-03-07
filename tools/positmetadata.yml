@@ -1,0 +1,33 @@
+- title: "Posit Workbench"
+  subtitle: "Posit Workbench offers all of the capabilities found in the RStudio desktop IDE plus professional database drivers, the ability to manage multiple R and Python versions and sessions, as well as Jupyter Notebooks, JupyterLab, VSCode, and more."
+  image: ./tools/images/workbench.png
+  categories:
+    - Posit Workbench
+  path: https://colorado.posit.co/rstudio/auth-sign-in?appUri=%2F
+- title: "Posit Connect"
+  subtitle: "Share applications (including Shiny, Flask, and Dash), reports, dashboards, APIs, and so much more"
+  image: ./tools/images/connect.png
+  categories:
+    - Posit Connect
+  path: https://colorado.posit.co/rsc/
+- title: "Posit Package Manager"
+  subtitle: "Posit Package Manager is a repository management server to organize and centralize R and Python packages across our organization."
+  image: ./tools/images/posit-pm.png
+  categories:
+    - Posit Package Manager
+  path: https://colorado.posit.co/rspm/client/#/
+- title: "Posit Workbench User Guide"
+  image: ./tools/images/posit-logo.png
+  categories:
+    - Posit Workbench
+  path: https://docs.posit.co/ide/server-pro/user/
+- title: "Posit Connect User Guide"
+  image: ./tools/images/posit-logo.png
+  categories:
+    - Posit Connect
+  path: https://docs.posit.co/connect/user/
+- title: "Posit Package Manager User Guide"
+  image: ./tools/images/posit-logo.png
+  categories:
+    - Posit Package Manager
+  path: https://docs.posit.co/rpm/documentation/

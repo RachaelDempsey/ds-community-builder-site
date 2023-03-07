@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Starting & Engaging a Data Science Community",
+    "title": "",
     "section": "",
-    "text": "*Please note this website is a work in progress. I’d love to have you share your own experience and tips. You can contribute through GitHub or email rachael@posit.co."
+    "text": "Please note this is a template site. Feel free to use and change this as you want\nWelcome to the “insert company” data science community site. We’re glad you’re here! This site will include recordings of past events, resources, and information for getting set-up with the tools available in the organization.\nAll are welcome - no matter your team or experience. If you have any questions, please don’t hesitate to reach out on our Data Science Slack channel."
   },
   {
     "objectID": "index.html#what-is-quarto",
@@ -457,9 +457,9 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Community Examples & Resources",
+    "title": "",
     "section": "",
-    "text": "Learn from others building and growing communities all around the world:\n\n\n\n\n\n\n\n\n\n\nAchieving scalability through standardization & showing the value of community\n\n\nRegeneron\n\n\n\nData Science Hangout\n\n\n\n\nRegis James\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThere’s only one R in Pfizer: Attempts to harmonise R release across a large pharma organisation\n\n\nPfizer\n\n\n\nConference talk\n\n\n\n\nMike Smith\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR at AstraZeneca: upskilling our workforce through education, experience, and exposure\n\n\nAstraZeneca\n\n\n\nMeetup\n\n\n\n\nGabriella Rustici & Guillaume Desachy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR User Group Community Explorer\n\n\n\n\n\n\nApp\n\n\n\n\nBen Ubah\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEverything I learned about community building from growing up in a bar\n\n\nPosit\n\n\n\nBlog post\n\n\n\n\nRachael Dempsey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorld Bank Shiny Day\n\n\nWorld Bank\n\n\n\nWebsite\n\n\n\n\nTony Fujs & Luiza Cardoso de Andrade\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNHS R Community\n\n\nNHS\n\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPfizer R Centre of Excellence\n\n\nPfizer & NHS\n\n\n\nPodcast\n\n\n\n\nNHS, Mike Smith & Doug Robinson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR @ AZ: Building a Community in the Pharmaceutical Industry\n\n\nAstraZeneca\n\n\n\nBlog post\n\n\n\n\nGuillaume Desachy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Journey to Data Science: Tools for Equity and Diversity in STEM\n\n\nOpenscapes\n\n\n\nConference talk\n\n\n\n\nIleana Fenwick\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe R KaggleRs - At the Intersection of Data Science Communities\n\n\nYipitData\n\n\n\nConference talk\n\n\n\n\nMartin Henze\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCommunicating the value of data science\n\n\nData Society\n\n\n\nMeetup\n\n\n\n\nMerav Yuravlivker\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Learn from others building and growing communities all around the world:\n\n\n\n\n\n\n\n\n\n\nData Science Hangout\n\n\nEvery Thursday at 12 ET\n\n\n\nData Science Hangout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCommunicating the value of data science\n\n\nData Society\n\n\n\nMeetup\n\n\n\n\nMerav Yuravlivker\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorld Bank Shiny Day\n\n\nWorld Bank\n\n\n\nWebsite\n\n\n\n\nTony Fujs & Luiza Cardoso de Andrade\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEverything I learned about community building from growing up in a bar\n\n\nPosit\n\n\n\nBlog post\n\n\n\n\nRachael Dempsey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPfizer R Centre of Excellence\n\n\nPfizer & NHS\n\n\n\nPodcast\n\n\n\n\nNHS, Mike Smith & Doug Robinson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR @ AZ: Building a Community in the Pharmaceutical Industry\n\n\nAstraZeneca\n\n\n\nBlog post\n\n\n\n\nGuillaume Desachy\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources/01-az-community/index.html",
@@ -495,5 +495,61 @@
     "title": "Office Hours / Hot Desk",
     "section": "",
     "text": "AstraZeneca\nAstraZeneca launched the R Hot Desk at their Gothenburg site. The idea is the following: once a month, a few R experts meet in an open area of their offices and dedicate two hours of their time to answer R-related questions.\nWhile this happens once a month, they have one R @ AZ initiative per week.\nYou can learn more about their other initiatives here.\n\n\nJohn Deere\nThe team at John Deere have groups around PowerBI, Tableau, Posit, Alteryx, Data Robot, etc.\nThey host “beginner office hours” every other week. Their team shared that by adding the word “beginner” to the office hours sessions grew their attendance by 10x!\nPower users still dialed in to the beginner office hours, but they now felt more empowered to help other users because it was a space for beginners."
+  },
+  {
+    "objectID": "index.html#upcoming-community-events-across-the-company",
+    "href": "index.html#upcoming-community-events-across-the-company",
+    "title": "",
+    "section": "Upcoming community events across the company:",
+    "text": "Upcoming community events across the company:"
+  },
+  {
+    "objectID": "index.html#community-blog-posts-example-use-cases",
+    "href": "index.html#community-blog-posts-example-use-cases",
+    "title": "",
+    "section": "Community blog posts & example use cases:",
+    "text": "Community blog posts & example use cases:\n\n\n\n\n\n\n\n\n\n\nData Science Hangout\n\n\nEvery Thursday at 12 ET\n\n\n\nData Science Hangout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThere’s only one R in Pfizer: Attempts to harmonise R release across a large pharma organisation\n\n\nPfizer\n\n\n\nConference talk\n\n\n\n\nMike Smith\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR at AstraZeneca: upskilling our workforce through education, experience, and exposure\n\n\nAstraZeneca\n\n\n\nMeetup\n\n\n\n\nGabriella Rustici & Guillaume Desachy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR User Group Community Explorer\n\n\n\n\n\n\nApp\n\n\n\n\nBen Ubah\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEverything I learned about community building from growing up in a bar\n\n\nPosit\n\n\n\nBlog post\n\n\n\n\nRachael Dempsey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorld Bank Shiny Day\n\n\nWorld Bank\n\n\n\nWebsite\n\n\n\n\nTony Fujs & Luiza Cardoso de Andrade\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNHS R Community\n\n\nNHS\n\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPfizer R Centre of Excellence\n\n\nPfizer & NHS\n\n\n\nPodcast\n\n\n\n\nNHS, Mike Smith & Doug Robinson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR @ AZ: Building a Community in the Pharmaceutical Industry\n\n\nAstraZeneca\n\n\n\nBlog post\n\n\n\n\nGuillaume Desachy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Journey to Data Science: Tools for Equity and Diversity in STEM\n\n\nOpenscapes\n\n\n\nConference talk\n\n\n\n\nIleana Fenwick\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe R KaggleRs - At the Intersection of Data Science Communities\n\n\nYipitData\n\n\n\nConference talk\n\n\n\n\nMartin Henze\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCommunicating the value of data science\n\n\nData Society\n\n\n\nMeetup\n\n\n\n\nMerav Yuravlivker\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n♥️ All are welcome - no matter your industry/experience ♥️ No need to register ♥️ It’s always okay to join for part of a session ♥️ You can listen-in, join-in the conversation, or ask questions anonymously ♥️\n\n:::"
+  },
+  {
+    "objectID": "01-upcoming-events.html",
+    "href": "01-upcoming-events.html",
+    "title": "Upcoming community events",
+    "section": "",
+    "text": "Tip for your own site\n\n\n\n\n\nYou can use AddEvent to create a free account for people to add each community event to their calendar. AddEvent provides the html code chunk needed to embed this calendar into your own site."
+  },
+  {
+    "objectID": "upcoming-events.html",
+    "href": "upcoming-events.html",
+    "title": "",
+    "section": "",
+    "text": "Please note this is a template site. Feel free to use and change this as you want\nWe’d love to see you at an upcoming community event!\nWe host the following events at XYZ Company:\n\nBeginner Office Hours every Tuesday from 11-11:30 am ET\nInternal Meetup to highlight use cases the first Wednesday of every month at 9 am ET\nData Science Conference - once a year\n\nYou can use the calendar below to add individual events to your calendar or subscribe in the right-hand corner to be notified of every event.\n\n\n\n\n\n\nTip for your own site\n\n\n\n\n\nYou can use AddEvent to create a free account for people to add each community event to their calendar. AddEvent provides the html code chunk needed to embed this calendar into your own site."
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "",
+    "section": "",
+    "text": "Company XYZ has Posit Team: Posit Workbench, Posit Connect, Posit Package Manager available across the organization. To request access, please contact: sales@posit.co (insert your own company contact)"
+  },
+  {
+    "objectID": "index.html#community-resources-and-recordings",
+    "href": "index.html#community-resources-and-recordings",
+    "title": "",
+    "section": "Community resources and recordings:",
+    "text": "Community resources and recordings:\n\n\n\n\n\n\n\n\n\n\nData Science Hangout\n\n\nEvery Thursday at 12 ET\n\n\n\nData Science Hangout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThere’s only one R in Pfizer: Attempts to harmonise R release across a large pharma organisation\n\n\nPfizer\n\n\n\nConference talk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR at AstraZeneca: upskilling our workforce through education, experience, and exposure\n\n\nAstraZeneca\n\n\n\nMeetup\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#community-event-recordings",
+    "href": "index.html#community-event-recordings",
+    "title": "",
+    "section": "Community event recordings:",
+    "text": "Community event recordings:\n\n\n\n\n\n\n\n\n\n\nData Science Hangout\n\n\nEvery Thursday at 12 ET\n\n\n\nData Science Hangout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCommunicating the value of data science\n\n\nData Society\n\n\n\nMeetup\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorld Bank Shiny Day\n\n\nWorld Bank\n\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEverything I learned about community building from growing up in a bar\n\n\nPosit\n\n\n\nBlog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPfizer R Centre of Excellence\n\n\nPfizer & NHS\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR @ AZ: Building a Community in the Pharmaceutical Industry\n\n\nAstraZeneca\n\n\n\nBlog post\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tools.html#helpful-resources",
+    "href": "tools.html#helpful-resources",
+    "title": "",
+    "section": "Helpful resources:",
+    "text": "Helpful resources:"
   }
 ]

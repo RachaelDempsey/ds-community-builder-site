@@ -1,5 +1,4 @@
 ---
-title: "Community Examples & Resources"
 listing:
   id: community-listing
   contents:

@@ -1,0 +1,83 @@
+- title: "Data Science Hangout"
+  categories: 
+    - "Data Science Hangout"
+  subtitle: "Every Thursday at 12 ET"
+  image: ./resources/images/dsh-logo.png
+  path: https://posit.co/data-science-hangout/
+- title: "There’s only one R in Pfizer: Attempts to harmonise R release across a large pharma organisation"
+  subtitle: "Pfizer"
+  author: "Mike Smith"
+  categories: 
+    - "Conference talk"
+  image: ./resources/images/r-in-pharma.jpg
+  path: https://youtu.be/bnRdI6jvGpM/
+- title: "R at AstraZeneca: upskilling our workforce through education, experience, and exposure"
+  subtitle: "AstraZeneca"
+  author: "Gabriella Rustici & Guillaume Desachy"
+  categories:
+    - "Meetup"
+  image: ./resources/images/az-meetup.jpg
+  path: https://www.youtube.com/live/YfTIwi-KOts?feature=share
+- title: "R User Group Community Explorer"
+  subtitle: 
+  author: "Ben Ubah"
+  categories:
+    - "App"
+  image: ./resources/images/app.jpg
+  path: https://benubah.github.io/r-community-explorer/rugs.html
+- title: "Everything I learned about community building from growing up in a bar"
+  subtitle: "Posit"
+  author: "Rachael Dempsey"
+  categories:
+    - "Blog post"
+  image: ./resources/images/rachael-talk.jpg
+  path: https://rachaeldempsey.quarto.pub/community-corner-blog/posts/post-with-code/
+- title: "World Bank Shiny Day"
+  subtitle: "World Bank"
+  author: "Tony Fujs & Luiza Cardoso de Andrade"
+  categories:
+    - "Website"
+  image: ./resources/images/shinyday.jpg
+  path: https://www.worldbank.org/en/events/2021/04/28/-r-shiny-days#overview
+- title: "NHS R Community"
+  subtitle: "NHS"
+  author:
+  categories:
+    - "Website"
+  image: ./resources/images/nhs.jpg
+  path: https://nhsrcommunity.com/
+- title: "Pfizer R Centre of Excellence"
+  subtitle: "Pfizer & NHS"
+  author: "NHS, Mike Smith & Doug Robinson"
+  categories:
+    - "Podcast"
+  image: ./resources/images/nhs-podcast.jpg
+  path: https://benubah.github.io/r-community-explorer/rugs.html
+- title: "R @ AZ: Building a Community in the Pharmaceutical Industry"
+  subtitle: "AstraZeneca"
+  author: "Guillaume Desachy"
+  categories:
+    - "Blog post"
+  image: ./resources/images/az-meetups.jpg
+  path: https://www.rstudio.com/blog/building-a-community-in-the-pharmaceutical-industry/
+- title: "A Journey to Data Science: Tools for Equity and Diversity in STEM"
+  subtitle: "Openscapes"
+  author: "Ileana Fenwick"
+  categories: 
+    - "Conference talk"
+  image: ./resources/images/ileana.jpg
+  path: https://youtu.be/q4E5Z1B4IQA
+- title: "We R KaggleRs - At the Intersection of Data Science Communities"
+  subtitle: "YipitData"
+  author: "Martin Henze"
+  categories:
+    - "Conference talk"
+  image: ./resources/images/martin.jpg
+  path: https://youtu.be/WAp82jxf9RA
+- title: "Communicating the value of data science"
+  subtitle: "Data Society"
+  author: "Merav Yuravlivker"
+  categories:
+    - "Meetup"
+  image: ./resources/images/merav.jpg
+  path: https://youtu.be/xR9kGAZXpV4

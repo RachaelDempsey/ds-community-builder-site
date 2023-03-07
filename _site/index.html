@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Data Science Community Builders - Starting &amp; Engaging a Data Science Community</title>
+<title>index</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,29 +24,29 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./explore.html" rel="next">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 20,
   "language": {
     "search-no-results-text": "No results",
@@ -60,139 +60,258 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recording-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-categories','listing-subtitle','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-categories","listing-subtitle","listing-image","listing-path","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recording-listing'] = new List('listing-recording-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<style>
+    .quarto-title-block .quarto-title-banner {
+      color: white;
+    }
+    </style>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
-<body class="nav-sidebar docked">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Starting &amp; Engaging a Data Science Community</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
-      </button>
-    </div>
-  </nav>
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./upcoming-events.html">Upcoming Events</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./resources.html">Recordings</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./tools.html">Data Science Tools</a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="./" class="sidebar-logo-link">
-      <img src="./images/ds-community-logo.jpg" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
-      </a>
-      <div class="sidebar-tools-main tools-wide">
-    <a href="https://join.slack.com/t/ds-communitybuilders/shared_invite/zt-1igdvgnhi-B_U1ra3HIy7axIJyv5wS1A" title="Data Science Community Builder Slack" class="sidebar-tool px-1"><i class="bi bi-slack"></i></a>
-    <a href="https://github.com/RachaelDempsey/ds-community-builder-site" title="Website GitHub" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-    <a href="https://evt.to/aihmgeaow" title="Community Builder Coffee Hour" class="sidebar-tool px-1"><i class="bi bi-link"></i></a>
-  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-</div>
-      </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-      </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">Welcome</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./explore.html" class="sidebar-item-text sidebar-link">Getting started</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./building-engagement.html" class="sidebar-item-text sidebar-link">Building engagement</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./talks.html" class="sidebar-item-text sidebar-link">Example event formats</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./common-challenges.html" class="sidebar-item-text sidebar-link">Common challenges to explore together</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./resources.html" class="sidebar-item-text sidebar-link">Community resources &amp; examples</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./receive-recognition.html" class="sidebar-item-text sidebar-link">Receiving recognition</a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Hello there!</a>
-  <ul class="collapse">
-  <li><a href="#kudos" id="toc-kudos" class="nav-link" data-scroll-target="#kudos">Kudos</a></li>
-  </ul></li>
-  <li><a href="#want-to-join-a-community-of-organizers" id="toc-want-to-join-a-community-of-organizers" class="nav-link" data-scroll-target="#want-to-join-a-community-of-organizers">Want to join a community of organizers?</a></li>
-  <li><a href="#contributors-to-this-site" id="toc-contributors-to-this-site" class="nav-link" data-scroll-target="#contributors-to-this-site">Contributors to this site:</a></li>
+  <li><a href="#community-event-recordings" id="toc-community-event-recordings" class="nav-link active" data-scroll-target="#community-event-recordings">Community event recordings:</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/RachaelDempsey/ds-community-builder-site/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/RachaelDempsey/ds-community-builder-site/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title d-none d-lg-block">Starting &amp; Engaging a Data Science Community</h1>
-<p class="subtitle lead">Reasons why, examples, advice to help you along the way, and much more.</p>
+
+
+<center>
+<img src="images/banner-1068.png" class="img-fluid" alt="Data Science community at your company">
+</center>
+<p><br></p>
+<p><strong>Please note this is a template site. Feel free to use and change this as you want</strong></p>
+<p>Welcome to the “insert company” data science community site. We’re glad you’re here! This site will include recordings of past events, resources, and information for getting set-up with the tools available in the organization.</p>
+<p>All are welcome - no matter your team or experience. If you have any questions, please don’t hesitate to reach out on our Data Science Slack channel.</p>
+<p><br></p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Tip for your own site
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p>Change the header above to an image with your own logo (could use a tool like <a href="https://www.canva.com">Canva</a>) and adjust the events below to match those that are organized by your own community within your company</p>
+</div>
+</div>
+</div>
+<section id="community-event-recordings" class="level2">
+<h2 class="anchored" data-anchor-id="community-event-recordings">Community event recordings:</h2>
+<div id="listing-recording-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Data Science Hangout">
+<a href="https://posit.co/data-science-hangout/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./resources/images/dsh-logo.png" class="thumbnail-image card-img" style="height: 100%;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Data Science Hangout
+</h5>
+<div class="card-subtitle listing-subtitle">
+Every Thursday at 12 ET
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Data Science Hangout'); return false;">
+Data Science Hangout
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Meetup">
+<a href="https://youtu.be/xR9kGAZXpV4" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./resources/images/merav.jpg" class="thumbnail-image card-img" style="height: 100%;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Communicating the value of data science
+</h5>
+<div class="card-subtitle listing-subtitle">
+Data Society
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Meetup'); return false;">
+Meetup
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Website">
+<a href="https://www.worldbank.org/en/events/2021/04/28/-r-shiny-days#overview" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./resources/images/shinyday.jpg" class="thumbnail-image card-img" style="height: 100%;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+World Bank Shiny Day
+</h5>
+<div class="card-subtitle listing-subtitle">
+World Bank
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Website'); return false;">
+Website
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Blog post">
+<a href="https://rachaeldempsey.quarto.pub/community-corner-blog/posts/post-with-code/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./resources/images/rachael-talk.jpg" class="thumbnail-image card-img" style="height: 100%;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Everything I learned about community building from growing up in a bar
+</h5>
+<div class="card-subtitle listing-subtitle">
+Posit
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Blog post'); return false;">
+Blog post
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Podcast">
+<a href="https://benubah.github.io/r-community-explorer/rugs.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./resources/images/nhs-podcast.jpg" class="thumbnail-image card-img" style="height: 100%;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pfizer R Centre of Excellence
+</h5>
+<div class="card-subtitle listing-subtitle">
+Pfizer &amp; NHS
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Podcast'); return false;">
+Podcast
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Blog post">
+<a href="https://www.rstudio.com/blog/building-a-community-in-the-pharmaceutical-industry/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./resources/images/az-meetups.jpg" class="thumbnail-image card-img" style="height: 100%;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+R @ AZ: Building a Community in the Pharmaceutical Industry
+</h5>
+<div class="card-subtitle listing-subtitle">
+AstraZeneca
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Blog post'); return false;">
+Blog post
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
 </div>
 
-
-
-<div class="quarto-title-meta">
-
-    
-    
-  </div>
-  
-
-</header>
-
-<p>*Please note this website is a work in progress. I’d love to have you share your own experience and tips. You can contribute through <a href="https://github.com/RachaelDempsey/ds-community-builder-site">GitHub</a> or email rachael@posit.co.</p>
-<section id="welcome" class="level2">
-<h2 class="anchored" data-anchor-id="welcome">Hello there!</h2>
-<p>Data science communities help us discover new capabilities, connect with others, and solve problems faster. They have an incredibly important role in growing a company’s analytics maturity, while also helping us create connections.</p>
-<p><a href="https://www.betterup.com/blog/connection-crisis-impact-on-work">BetterUp surveyed 3,000+ US workers</a> and found that “connection is the biggest opportunity leaders aren’t focusing on to win talent and build adaptable and resilient organizations.”</p>
-<p>Meanwhile, <a href="https://www.linkedin.com/posts/davidpidsley_gartner-gartnerda-analytics-activity-6980557134065213440-14We/?utm_source=share&amp;utm_medium=member_desktop">Gartner</a> also reports that organizations are struggling to foster Data &amp; Analytics communities that are needed to grow adoption of otherwise promising analytics initiatives.</p>
-<p>The community building that you do is a huge benefit to your organization. People want to be able to work and collaborate with others to learn and solve problems. Solving problems faster and retaining talent also saves your company money. Remember the value that you are bringing to the company as well.</p>
-<section id="kudos" class="level3">
-<h3 class="anchored" data-anchor-id="kudos">Kudos</h3>
-<p>Before diving in, kudos to you for taking the first steps (or the 100th step) in leading a community, bringing people together, and making a difference. While it’s not easy, it is definitely very rewarding. There are also a lot of great community organizers who have offered up advice and are willing to help as well. We all face challenges along the way and can help each other as well. Let’s get started!</p>
-</section>
-</section>
-<section id="want-to-join-a-community-of-organizers" class="level2">
-<h2 class="anchored" data-anchor-id="want-to-join-a-community-of-organizers">Want to join a community of organizers?</h2>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd48V2RwV8W-1k3OaHAE-1nDtmRqrCBZ4Cu9zUW_jKG4VpfmQ/viewform?embedded=true" width="640" height="1445" frameborder="0" marginheight="0" marginwidth="0">
-Loading…
-</iframe>
-</section>
-<section id="contributors-to-this-site" class="level2">
-<h2 class="anchored" data-anchor-id="contributors-to-this-site">Contributors to this site:</h2>
-<p>Thank you to Julia Stewart Lowndes and Stefanie Butland who created the <a href="https://github.com/openscapes/quarto-website-tutorial">Openscapes Quarto Website Tutorial</a> that provided the framework for this site.</p>
 
 
 </section>
@@ -218,121 +337,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const disableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'prefetch';
-    }
-  }
-  const enableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'stylesheet';
-    }
-  }
-  const manageTransitions = (selector, allowTransitions) => {
-    const els = window.document.querySelectorAll(selector);
-    for (let i=0; i < els.length; i++) {
-      const el = els[i];
-      if (allowTransitions) {
-        el.classList.remove('notransition');
-      } else {
-        el.classList.add('notransition');
-      }
-    }
-  }
-  const toggleColorMode = (alternate) => {
-    // Switch the stylesheets
-    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-    manageTransitions('#quarto-margin-sidebar .nav-link', false);
-    if (alternate) {
-      enableStylesheet(alternateStylesheets);
-      for (const sheetNode of alternateStylesheets) {
-        if (sheetNode.id === "quarto-bootstrap") {
-          toggleBodyColorMode(sheetNode);
-        }
-      }
-    } else {
-      disableStylesheet(alternateStylesheets);
-      toggleBodyColorPrimary();
-    }
-    manageTransitions('#quarto-margin-sidebar .nav-link', true);
-    // Switch the toggles
-    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-    for (let i=0; i < toggles.length; i++) {
-      const toggle = toggles[i];
-      if (toggle) {
-        if (alternate) {
-          toggle.classList.add("alternate");     
-        } else {
-          toggle.classList.remove("alternate");
-        }
-      }
-    }
-    // Hack to workaround the fact that safari doesn't
-    // properly recolor the scrollbar when toggling (#1455)
-    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-      manageTransitions("body", false);
-      window.scrollTo(0, 1);
-      setTimeout(() => {
-        window.scrollTo(0, 0);
-        manageTransitions("body", true);
-      }, 40);  
-    }
-  }
-  const isFileUrl = () => { 
-    return window.location.protocol === 'file:';
-  }
-  const hasAlternateSentinel = () => {  
-    let styleSentinel = getColorSchemeSentinel();
-    if (styleSentinel !== null) {
-      return styleSentinel === "alternate";
-    } else {
-      return false;
-    }
-  }
-  const setStyleSentinel = (alternate) => {
-    const value = alternate ? "alternate" : "default";
-    if (!isFileUrl()) {
-      window.localStorage.setItem("quarto-color-scheme", value);
-    } else {
-      localAlternateSentinel = value;
-    }
-  }
-  const getColorSchemeSentinel = () => {
-    if (!isFileUrl()) {
-      const storageValue = window.localStorage.getItem("quarto-color-scheme");
-      return storageValue != null ? storageValue : localAlternateSentinel;
-    } else {
-      return localAlternateSentinel;
-    }
-  }
-  let localAlternateSentinel = 'default';
-  // Dark / light mode switch
-  window.quartoToggleColorScheme = () => {
-    // Read the current dark / light value 
-    let toAlternate = !hasAlternateSentinel();
-    toggleColorMode(toAlternate);
-    setStyleSentinel(toAlternate);
-  };
-  // Ensure there is a toggle, if there isn't float one in the top right
-  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-    const a = window.document.createElement('a');
-    a.classList.add('top-right');
-    a.classList.add('quarto-color-scheme-toggle');
-    a.href = "";
-    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-    const i = window.document.createElement("i");
-    i.classList.add('bi');
-    a.appendChild(i);
-    window.document.body.appendChild(a);
-  }
-  // Switch to dark mode if need be
-  if (hasAlternateSentinel()) {
-    toggleColorMode(true);
-  } else {
-    toggleColorMode(false);
-  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -411,19 +415,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="./explore.html" class="pagination-link">
-        <span class="nav-page-text">Getting started</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-right">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</div>
+    <div class="nav-footer-right">This page is built with 🖤 and <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
 

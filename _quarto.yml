@@ -3,58 +3,33 @@ project:
   
 website: 
   page-navigation: true
-  title: "Data Science Community Builders" 
+  image:  images/banner.jpeg
   site-url: "https://colorado.posit.co/rsc/ds-community-builder/" 
   repo-url: "https://github.com/RachaelDempsey/ds-community-builder-site" 
-  repo-actions: [edit, issue]
+  navbar: 
+    search: true
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Upcoming Events"
+        file: upcoming-events.qmd
+      - text: "Recordings"
+        file: resources.qmd
+      - text: "Data Science Tools"
+        file: tools.qmd
   
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    right: "This page is built with 🖤 and [Quarto](https://quarto.org/)."
     
-  sidebar:
-    logo: "images/ds-community-logo.jpg"
-    pinned: true
-    align: center
-    tools: 
-      - icon: slack
-        href: https://join.slack.com/t/ds-communitybuilders/shared_invite/zt-1igdvgnhi-B_U1ra3HIy7axIJyv5wS1A
-        text: "Data Science Community Builder Slack"
-      - icon: github
-        href: https://github.com/RachaelDempsey/ds-community-builder-site
-        text: "Website GitHub"
-      - icon: link
-        href: https://evt.to/aihmgeaow
-        text: "Community Builder Coffee Hour"         
-
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-      - href: index.qmd
-        text: Welcome
-      - href: explore.qmd
-        text: Getting started
-      - href: building-engagement.qmd
-        text: Building engagement
-      - href: talks.qmd
-        text: Example event formats
-      - href: common-challenges.qmd
-        text: Common challenges to explore together
-      - href: resources.qmd
-        text: Community resources & examples
-      - href: receive-recognition.qmd
-        text: Receiving recognition
-
-
 format:
   html:
-    theme:
-      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
-      dark: [cosmo, theme-dark.scss]
+    layout:
+    title-block-categories: false
+    title-block-banner: true
+    theme: minty
     code-copy: true
     code-overflow: wrap
     toc: true
-
 
 filters:
   - include-files.lua
