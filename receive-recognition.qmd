@@ -1,5 +1,5 @@
 ---
-title: "Receiving recognition"
+title: "Showing your value"
 editor: visual
 ---
 
@@ -7,24 +7,23 @@ editor: visual
 
 Remember to record wins, show the value of your community & receive the recognition you deserve. Getting support and recognition for the value you are providing is important to not getting burnt out.
 
-Community helps our organizations:  
+Community helps our organizations:
 
-* solve problems faster
-* recruit & retain talent
-* grow your analytic maturity
-* get value out of spend (data science tools & employees!)
-* look innovative among others in the industry
-* and much more — identify what’s important to your leadership
+-   solve problems faster
+-   recruit & retain talent
+-   grow your analytic maturity
+-   get value out of spend (data science tools & employees!)
+-   look innovative among others in the industry
+-   and much more --- identify what's important to your leadership
 
 Come up with your own metrics to show value.
 
-Completely fake example:  
+Completely fake example:
 
-* 100 data scientists engaged in the community, learning from each other
-* half a million dollar value with this one example
-* This example uses:  
-    * average data science salary (100K)
-    * Each member saving 2-hours each week by collaborating with others,            * learning more efficient ways of doing things, etc.
+-   100 data scientists engaged in the community, learning from each other
+-   half a million dollar value with this one example
+-   This example uses:
+    -   average data science salary (100K)
+    -   Each member saving 2-hours each week by collaborating with others, \* learning more efficient ways of doing things, etc.
 
-
----
+------------------------------------------------------------------------

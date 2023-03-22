@@ -1,0 +1,51 @@
+---
+title: "Example Community Website"
+editor: visual
+categories: [virtual]
+image: "community-site.jpg"
+image-alt: "AstraZeneca hot desk hex sticker"
+---
+
+![](images/community-site.jpg){fig-alt="Example company community site"}
+
+### Template Quarto Site
+
+Please feel free to use this example community site as a starting point and change it as needed. 
+
+This template site features 4 main sections:  
+
+* Home page: Overview of your community with links to recent recordings, upcoming events, or recent blog posts
+* Upcoming events calendar
+* Recordings of all previous events
+* Section for information on the data science tools available to your across your organization
+
+Helpful links:  
+
+* This example site is built with Quarto and hosted on Posit Connect. You can view the [published example here](https://colorado.posit.co/rsc/example-community-site/)
+* You can view the [source code here.](https://github.com/RachaelDempsey/example-company-community-site)
+* The [Quarto Gallery](https://quarto.org/docs/gallery/) has a lot of great website examples that you can start from as well.
+
+
+### How do you use the template?
+
+*I have copied these instructions below from [Javier Orraca-Deatcu](https://www.javierorracadeatcu.com/posts/2022-11-15-shiny-bslib-demo/2022-11-15-shiny-bslib-demo.html) (thank you!)*
+
+::: callout-warning
+## Git for the R User
+
+The next steps assume that you're familiar with GitHub, you've installed R + [Git](https://github.com/git-guides/install-git) + the [RStudio IDE](https://posit.co/download/rstudio-desktop/), and you've connected RStudio to GitHub. Jenny Bryan's [Happy Git and GitHub for the useR](https://happygitwithr.com/rstudio-git-github.html) is a great resource if you're stuck on any of these topics.
+:::
+
+Step 1: Clone Repo
+
+We'll start by forking this GitHub repo into your repository to allow you to experiment with my code without actually changing anything in the original project repo. To do this, navigate to my [GitHub repo](https://github.com/RachaelDempsey/example-company-community-site) and click on the Fork button in the top-right of the repo. This will prompt you to "Create a new fork." When you're ready to create the new fork, simply hit the Create fork button on the bottom of the screen.
+
+Assuming you kept the original repository name, you should see a newly created repo titled "example-company-community-site" in your GitHub repositories. It contains a full copy of all files and folders found in my original project repo.
+
+Next, you'll want to clone this repo to your local machine. Using the RStudio IDE, navigate to its menu bar and click on File -\> New Project -\> Version Control -\> Git, copy/paste your repo's clone URL, choose your local project directory path of choice, and click on Create Project.
+
+RStudio IDE's New Project Wizard will launch in a popup window after selecting New Project from the file menu. You should expect the following:
+
+![](images/clone_git_repo.gif)
+
+This process will create a local clone of all files and folders found on your remote GitHub repo.
