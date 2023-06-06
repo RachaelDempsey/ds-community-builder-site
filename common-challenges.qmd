@@ -1,15 +1,13 @@
 ---
-title: "Common challenges to explore and help each other with"
+title: "Celebrating wins & exploring challenges together"
 editor: visual
 ---
 
-On the second Tuesday of every month, community builders across the world get together for a coffee hour.
+On the second Tuesday of every month, we get together as group of community builders for a coffee hour.It's a casual, fun time to share a bit about the communities we're part of or the ones we'd like to start, learn from our community-builder peers, and just meet each other :)
 
-\^*This sentence made it sound like the group is huge, but there are less than 20 of us starting this out!* It's a casual, fun time to share a bit about the communities we're part of or the ones we'd like to start, learn from our community-builder peers, and just meet each other :)
+![](images/coffeehour.png){fig-alt="data science community builder coffee hour" fig-align="center" width="300"}
 
-![](images/coffeehour.png){fig-alt="data science community builder coffee hour"}
-
-All are welcome to join in the discussion or listen-in. If you'd like to add it to your calendar you can [do so here](https://www.addevent.com/event/fy15703216).
+All are welcome to join in the discussion or listen-in. If you'd like to add it to your calendar you can [do so here](https://www.addevent.com/event/fy15703216). You can also meet other community builders ahead of the monthly call in our [Slack group.](https://join.slack.com/t/ds-communitybuilders/shared_invite/zt-1w15p3lip-iWMBZb_cWKyC1dCoU3Jj9g) *If this link expires and you'd like to join, please let [Rachael](https://www.linkedin.com/in/rachaeldempsey/) know.*
 
 We discuss some of the challenges included below:
 

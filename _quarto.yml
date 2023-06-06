@@ -17,7 +17,7 @@ website:
     align: center
     tools: 
       - icon: slack
-        href: https://join.slack.com/t/ds-communitybuilders/shared_invite/zt-1igdvgnhi-B_U1ra3HIy7axIJyv5wS1A
+        href: https://join.slack.com/t/ds-communitybuilders/shared_invite/zt-1w15p3lip-iWMBZb_cWKyC1dCoU3Jj9g
         text: "Data Science Community Builder Slack"
       - icon: github
         href: https://github.com/RachaelDempsey/ds-community-builder-site
@@ -39,7 +39,7 @@ website:
       - href: talks.qmd
         text: Example event formats
       - href: common-challenges.qmd
-        text: Common challenges to explore together
+        text: Monthly community builder coffee hour
       - href: resources.qmd
         text: Community resources & examples
       - href: receive-recognition.qmd
