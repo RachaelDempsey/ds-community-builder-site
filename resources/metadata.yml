@@ -1,3 +1,17 @@
+- title: "Driving impact with data science communities"
+  categories: 
+    - "Blog"
+  subtitle: "Posit"
+  author: "Rachael Dempsey"
+  image: ./resources/images/impact-blog.jpg
+  path: https://posit.co/blog/driving-impact-with-data-science-communities/
+- title: "Creating business value with community"
+  categories: 
+    - "Data Science Hangout"
+  subtitle: "Dow Chemical"
+  author: "Alix Schmidt & Amanda Ahrens"
+  image: ./resources/images/dow.jpg
+  path: https://youtu.be/SNneEKmSyyU?t=603
 - title: "Achieving scalability through standardization & showing the value of community"
   categories: 
     - "Data Science Hangout"
