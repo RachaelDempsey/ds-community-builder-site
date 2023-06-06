@@ -17,8 +17,6 @@ There's no standard format for an event, but this sample agenda and list of type
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qvFeaPRgOns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
-
-
 #### **Sample Agenda:**
 
 Javier Orraca, Senior Manager, Data Ops & Analytics at Bloomreach says, "In my prior role, we hosted a monthly R user group with the following agenda:

@@ -1,0 +1,41 @@
+---
+title: "Data Competitions"
+editor: visual
+categories: [virtual, in-person]
+image: "competition.jpg"
+image-alt: "Data Competitions"
+---
+
+One way to create business value with your data science community is through data competitions.
+
+### Lessons learned in holding a data competition:
+
+1.  Encourage folks to network and find people in parts of the company you wouldn't normally work with  
+2.  Make sure the theme resonates with the executives, but also, mid-level managers because they have to be supportive of their employees spending time participating in the competition  
+3.  The theme should also apply to the whole company because you don't want to exclude any one that has a certain type of job that doesn't touch that area
+
+### Featured Example at Dow Chemical:
+
+![](images/dow.jpg){fig-alt="Data Science Hangout with Amanda Ahrens and Alix Schmidt at Dow"}
+
+At a [Data Science Hangout](https://youtu.be/SNneEKmSyyU), Amanda Ahrens & Alix Schmidt from Dow Chemical shared how they hold a Shark Tank style competition where groups come up with a project idea and pitch it to this executive panel.
+
+In all three years of the Data Science Challenges, winning projects were implemented in some way.
+
+> The number one project from 2022 recently won an [Edison Award](https://corporate.dow.com/en-us/science-and-sustainability/edison-awards.html), which is a big research and development in STEM award. It's such an awesome example of exactly the vision of the event and to get that external recognition was really cool.
+
+That project brought three very small projects from our toxicology department, our molecular discovery research area, and our supply chain area together to make a really powerful tool for making safer and more sustainable products. 
+
+A lot of value is created at the interface of different functions and different organizations in a company as big as Dow, which is like 37,000 employees.
+
+One of the things we encourage folks to do is network and get out there and find people in parts of the company that you wouldn't normally talk to.
+
+A huge part of being able to bring people together across the company is making sure that you set a theme that resonates with the executives, but also, the mid-level managers because they have to be supportive of their employees actually participating in the Data Science Challenge.
+
+Our Shark Tank style challenge, wasn't just a day or two days where people were working on a problem with the same data set. It was actually over a longer period of time. Beginning to end, the challenge was more around two months. There was a lot of time spent there, so people had to feel like it was worthwhile for their team.
+
+The competition we did in 2022 was all around sustainability. Dow seeks to be the most sustainable material science company in the world, and so that's a very front and center theme for the company, not just the Data Science Challenge. So it's pretty easy to get executives to rally around that.
+
+They were already interested in it, it was already on their scorecard, so might as well add this to help them achieve their goals.
+
+Finding themes that are enterprise-level for the whole company is really important, because we want to make sure the theme doesn't exclude any one that has a certain type of job that just doesn't touch that area. Executive sponsors tend to have goals at this company-wide level.

@@ -2,29 +2,28 @@
 title: "Example Community Website"
 editor: visual
 categories: [virtual]
-image: "community-site.jpg"
-image-alt: "AstraZeneca hot desk hex sticker"
+image: "website.jpg"
+image-alt: "Example community builder site"
 ---
-
-![](images/community-site.jpg){fig-alt="Example company community site"}
 
 ### Template Quarto Site
 
-Please feel free to use this example community site as a starting point and change it as needed. 
+Please feel free to use this example community site as a starting point and change it as needed.
 
-This template site features 4 main sections:  
+This template site features 4 main sections:
 
-* Home page: Overview of your community with links to recent recordings, upcoming events, or recent blog posts
-* Upcoming events calendar
-* Recordings of all previous events
-* Section for information on the data science tools available to your across your organization
+-   Home page: Overview of your community with links to recent recordings, upcoming events, or recent blog posts
+-   Upcoming events calendar
+-   Recordings of all previous events
+-   Section for information on the data science tools available to your across your organization
 
-Helpful links:  
+![](images/community-site.jpg){fig-alt="Example company community site" fig-align="center" width="700"}
 
-* This example site is built with Quarto and hosted on Posit Connect. You can view the [published example here](https://colorado.posit.co/rsc/example-community-site/)
-* You can view the [source code here.](https://github.com/RachaelDempsey/example-company-community-site)
-* The [Quarto Gallery](https://quarto.org/docs/gallery/) has a lot of great website examples that you can start from as well.
+Helpful links:
 
+-   This example site is built with Quarto and hosted on Posit Connect. You can view the [published example here](https://colorado.posit.co/rsc/example-community-site/)
+-   You can view the [source code here.](https://github.com/RachaelDempsey/example-company-community-site)
+-   The [Quarto Gallery](https://quarto.org/docs/gallery/) has a lot of great website examples that you can start from as well.
 
 ### How do you use the template?
 
@@ -49,3 +48,5 @@ RStudio IDE's New Project Wizard will launch in a popup window after selecting N
 ![](images/clone_git_repo.gif)
 
 This process will create a local clone of all files and folders found on your remote GitHub repo.
+
+*Thumbnail Photo by [Hal Gatewood](https://unsplash.com/@halacious?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/web?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*

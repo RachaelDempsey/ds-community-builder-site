@@ -40,7 +40,6 @@ Are there people that have joined who may be open to giving you feedback? Try co
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gdzt05dSeC4?start=1440" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
-
 ### Be proactive
 
 To build a vibrant community, you will likely have to reach outside of your initial network. Try the following:
@@ -49,7 +48,7 @@ To build a vibrant community, you will likely have to reach outside of your init
 -   Let people know when you think their work is great! For example: if you saw a blog post from someone at your company - let them know! You can also ask if they might be interested in sharing it at some point with the community.
 -   Help in celebrating awesome work that people are doing across the team. Share your colleagues work when relevant.
 
-*Regis James, Senior Manager at Regeneron Pharmaceuticals shars his thoughts on this in a Data Science Hangout*
+*Regis James, Senior Manager at Regeneron Pharmaceuticals shares his thoughts on this in a Data Science Hangout*
 
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hjufaKBU6Ec?start=1115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -73,11 +72,10 @@ Encouraging others to get involved is integral to sustaining a community. These 
 -   Encourage people to use the chat during virtual events or invite them into Slack/Teams/Discord/etc. channels. Someone may start to feel more comfortable meeting people this way and contributing here rather than presenting.
 
 *Tori Oblad, Enterprise Data & Analytics Officer at WaFd Bank shares her thoughts on encouraging others in a Data Science Hangout*
+
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YTNYjS_PeFs?start=181" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
-
-
 ### Observe the unsaid
 
 After a community event, it can be helpful to take a few minutes to reflect on the experience and asses how it felt to you. Are there opportunities to learn from something that wasn't shared as well?
