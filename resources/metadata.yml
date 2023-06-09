@@ -11,7 +11,7 @@
   subtitle: "Dow Chemical"
   author: "Alix Schmidt & Amanda Ahrens"
   image: ./resources/images/dow.jpg
-  path: https://youtu.be/SNneEKmSyyU?t=603
+  path: "https://youtu.be/SNneEKmSyyU?t=603"
 - title: "Achieving scalability through standardization & showing the value of community"
   categories: 
     - "Data Science Hangout"

@@ -6,28 +6,154 @@ image: "featured.png"
 image-alt: "Data Science Hangout, You're in good company: Join a community of data scientists that share insights about what it means to be a responsible, effective, and inspiring leader"
 ---
 
-One example for a weekly or monthly event is the [Data Science Hangout](https://posit.co/data-science-hangout), hosted by Posit. While this event is open to the public, you may want to consider hosting one internal to your organization to get to know different data people, their use cases, challenges, ideas, etc.
+One example for a weekly or monthly event is a Data Science Hangout. Rachael Dempsey at Posit hosts a [Data Science Hangout](https://posit.co/data-science-hangout) every Thursday at 12 ET. While this event is open to the public, you may want to consider hosting one internal to your organization to get to know different data people, their use cases, challenges, ideas, etc.
 
-Here's an example Data Science Hangout featuring Mike Smith, Senior Director, Pfizer R&D UK Ltd.
+::: {.callout-tip collapse="true"}
+### Why consider this?
 
-```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dy1R2-jEeJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
-The Data Science Hangout is a gathering place for the whole data science community - including current and future data science leaders - to chat about data science leadership and questions you're all facing every Thursday at 12 ET.
-
-There's no hard agenda or predetermined talk tracks: just an expert or two willing to share their perspectives on what's really going on in data science at an organizational level.
-
-You can check out the [full list of recordings here](https://www.youtube.com/playlist?list=PL9HYL-VRX0oTu3bUoyYknD-vpR7Uq6bsR).
+An unstructured gathering has proven to be a helpful format for sharing knowledge and building relationships among an awesome group of people :) 
 
 Benefit to holding one of these events at your company:
 
--   People can learn what other teams are doing by featuring a different data person each session
+-   It will being people together that wouldn't normally work together and help your organization solve problems faster
+-   People can learn from each other and understand what other teams are doing across the company
 -   There is minimal planning required for the speaker as there are no slides or presentation
+:::
 
-Tips for making this inclusive:
+::: {.callout-tip collapse="true"}
+### What would an internal Data Science Hangout look like?  
 
--   Let people know ahead of time that all are welcome, no matter their experience
--   Ensure people know that they can listen-in and it's okay to come for only part of the session if they want
--   Give an option for people to ask questions anonymously until they get more comfortable asking live (a tool for this we've used is Slido)
--   Welcome people in each week and let them know how they can participate
--   Feature a diverse group of data scientists/analysts/whichever role across many teams
+A hangout is an open Zoom call (or whatever your team uses) that is held on a consistent schedule (same day, same time) 
+
+The goal is to foster a space where everyone can ask questions about data science across the organization with a different featured data-person each week. People might ask questions about best practices for communication with stakeholders, getting access to tools, about the journey to data science, etc.
+:::
+
+::: {.callout-tip collapse="true"}
+### How does Posit position the Data Science Hangout?
+
+* The [Data Science Hangout](https://posit.co/data-science-hangout) is a gathering place for the whole data science community - including current and future data science leaders - to chat about data science leadership and questions you're all facing that happens every Thursday at 12 ET.   
+* There's no hard agenda or predetermined talk tracks: just a featured leader willing to share their perspectives on what’s really going on in data science at an organizational level.
+* A few things to add upfront:
+    - All are welcome - no matter your industry/experience
+    - No need to register, add it to your calendar here: pos.it/dsh
+    - It’s always okay to join for part of a session - seriously, don't feel bad if you have to leave early for a meeting or come late!
+    - You can listen-in, join-in the conversation, or ask questions anonymously
+    - You can also check out recordings of past sessions on the Posit YouTube and Data Science Hangout site: https://lnkd.in/eQ58UvtK
+:::
+
+::: {.callout-tip collapse="true"}
+## Lessons learned from 92+ Posit Data Science Hangouts!
+
+* [Starting small is good](#small)
+* [Standardization makes your life easier](#standardization)
+* [Consistency is crucial for building relationships](#consistency)
+* [Always welcome people and be clear that it’s open to all](#welcome)
+* [Planning ahead makes things less hectic (try to get here)](#planning)
+* [...& other random thoughts](#random)
+
+#### Starting small is good {#small}
+
+People can have a tendency to think that a larger audience means a better event. This is not true. 
+
+Starting small is important for building the culture that you want for your group. The smaller group can get to know each other better first and will become the people that help maintain the culture as your event grows. I believe we started with about 20 people in the beginning.
+
+Starting small also gives you more of an opportunity to intentionally grow a diverse group from the beginning and to adapt based on feedback you receive.
+
+
+#### Standardization makes your life easier {#standardization}
+
+Spend less mental energy on the planning by setting things up for yourself ahead of time and setting a process for anything that you have to do ahead of time. 
+
+Having an event consistently is not only good for building relationships, but it makes things easier for you as the organizer. With the same day/time, it becomes easier to schedule your featured leaders. You can give them a few options and limit having to go back and forth on dates.
+
+Create a Google Form to collect the speaker's information that you will use to share the event ahead of time (things like their name, title, bio, picture, recording approval.) This saves so much time of emailing people back and forth.
+
+Create a template Email Invite Placeholder that you share with every featured data-person when they commit to a date. This will include all the details that they need to know about the event (where to upload their speaker information, how to join, example questions, link to recordings of past sessions, etc.)
+
+Write out your intro so that you can use it each week to welcome people in, let them know how to ask questions, and introduce the speaker.
+
+#### Consistency is crucial for building relationships {#consistency}
+
+After our Data Science Hangout end of year survey, we found that 58.3% of people join 1-2 times a month.  However, when asked about the recommended cadence 56% said they want it to be weekly and 24% said bi-weekly.
+
+One person said: “I don't think that weekly hangouts are strictly necessary (but it is nice.) I'd hate to see it drop to only once a month just because there would be less opportunities to jump on.”
+
+For our Data Science Hangout, it took us 5 weeks for a core group of repeat attendees to emerge.
+
+Keeping the regular consistency allows community members to jump on when it fits in their schedule and keep in contact with other community members. After joining for a few weeks and seeing regular faces, I’ve noticed that people get more comfortable commenting in the chat and asking questions.
+
+Once people have met each other and spoken through the chat during the event, they are more likely to set up separate side conversations and build relationships.
+
+#### Always welcome people and be clear that it’s open to all {#welcome}
+
+It’s important to explicitly tell people what to expect and who the events are for. If you’re hoping beginners will join, let them know that!  
+
+Recognize that a welcoming environment may look a lot different to you as the organizer than it does to a new attendee. It can be helpful to reach out to a few people that have joined your events and ask if they may be open to giving you feedback.  
+
+Connecting with a handful of members after an event lets you learn so much about their experience. For example, if you ask how they found out about the group, you may discover that it took a few months for them to join after first hearing about it. With this information, you can explore ways to make it more welcoming for others.   
+
+A few other tips: 
+
+* Let people know ahead of an event that they’re free to listen in and don’t necessarily have to participate.
+* Make it clear how to ask questions and give people an option to ask anonymously.
+* Let people know in your marketing of the event that it’s an inclusive space, open to all regardless of their experience or background.
+* Beware of terms/lingo that new attendees may not know. Share definitions in the chat when acronyms come up.
+* Remember at the beginning of an event that it may be someone’s first time there.
+
+
+#### Planning ahead makes things less hectic {#planning}
+
+This is something that got easier as the group grew. I highly recommend trying to schedule out for at least 4 weeks to 2 months. Recognize that this will be harder in the beginning, but you will get there!
+
+Giving yourself some leeway in planning takes so much pressure off. It’s also easier to find someone who can agree to an event over a month away. 
+
+This was a helpful lesson learned in getting people to agree to a specific date to join us as a featured leader. As you connect with people through your community group, ask them if they may be interested in being a featured leader at some point? If they say yes, you can offer them a few options 2 months out to pick from and lock it down right away. If they have to switch, that’s ok - if there’s enough time you can still shuffle speakers around.
+
+I keep a spreadsheet of accepted speakers and potential speakers. This is also helpful for viewing the diversity of your featured leaders at a high level.
+
+
+#### Other thoughts: {#random}
+
+While I was nervous for the first few, it gets a lot easier as you do things and as people get to know each other. I am honestly so excited every Thursday to see everyone now.  
+
+Google invites can get messy if you’re going to have lots of people attending each week. It was hard to add new people without notifying everybody else on the invitation. This led us to use Addevent to make it easier for people to add to their own calendar.
+
+Take a moment to step back once in a while and think about how you can make things easier for yourself. It needs to work for you if you’re going to keep it consistent and not get burnt out.
+
+There isn’t really a theme to each week but one will often naturally arise. I try to take a few short notes during the session of what I want to share in my recap. This makes it easier to go back and find certain sections of the recording.
+:::  
+  
+  
+## How to host your own:  
+
+1. **Come up with a name for your hangout**
+    - This could be literally “(Your Company Name) Data Science Hangout”
+2. **Reach out to a few different people using data across your organization**
+    - Ask if they may be interested in sharing their experience with the community. 
+    - While reaching out to featured leaders, ensure from the start that you are considering the diversity of the group - in not only the individuals, but their workflows and roles
+3. **Find a consistent date/time and cadence**
+
+4. **Keep a spreadsheet of every date of the Hangout**
+    - Use this to schedule people into specific dates if they say they are interested
+    - Offering dates months in advance makes it easier for people to say yes
+    
+5. **Make a logo**
+    - [Canva](https://canva.com) is a great tool for this
+6. **Create an invitation** 
+    - This could be with something like [AddEvent](https://addevent.com), Google Invitation, or whatever internal tool that you use) for people to add it to their calendar
+7. **Share it with your internal data community**
+    - You'll need to share in a variety of formats and you might need to tell people a few times before they come (messaging channels, on team calls, etc.)
+8. **Have a way for people to ask questions anonymously**
+    - This will help ensure you are hearing from everybody (people might not use this every week, but it’s nice to have it as an option)
+    - We use [Slido](https://slido.com) for this.
+9. **Share the recordings of each session**
+    - Include a highlight for people that have missed it and resources mentioned
+    - Also add clear instructions about how they can join next time
+10. **Reach out to attendees**
+    - Each week, connect with a few people who join each event and thank them for joining
+    - This will give them an opportunity to share feedback with you as well
+11. **Try to schedule a few months out in advance**
+    - As you get them up and running, this will give yourself some breathing room for scheduling. 
+
+
+
