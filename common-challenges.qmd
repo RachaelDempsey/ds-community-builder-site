@@ -3,7 +3,7 @@ title: "Celebrating wins & exploring challenges together"
 editor: visual
 ---
 
-On the second Tuesday of every month, we get together as group of community builders for a coffee hour.It's a casual, fun time to share a bit about the communities we're part of or the ones we'd like to start, learn from our community-builder peers, and just meet each other :)
+On the second Tuesday of every month, we get together as group of community builders for a coffee hour. It's a casual, fun time to share a bit about the communities we're part of or the ones we'd like to start, learn from our community-builder peers, and just meet each other :)
 
 ![](images/coffeehour.png){fig-alt="data science community builder coffee hour" fig-align="center" width="300"}
 
